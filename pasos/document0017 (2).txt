@@ -1,0 +1,24 @@
+originales/document0017 (2).txt
+Original: 
+ There are current Liberal Democrat MPs that have pioneered social democratic solutions to problems of social exclusion and injustice. Simon Hughes has made countless interventions on issues of housing and youth violence. On Sunday, I listened to Richard Grayson , the former Liberal Democrat director of policy, make an eloquent case for a more active state. Yet these voices are being drowned out by a leadership team that seems to sing from an entirely different hymn sheet. 
+
+Sin signos de puntuación: 
+ There are current Liberal Democrat MPs that have pioneered social democratic solutions to problems of social exclusion and injustice  Simon Hughes has made countless interventions on issues of housing and youth violence  On Sunday  I listened to Richard Grayson   the former Liberal Democrat director of policy  make an eloquent case for a more active state  Yet these voices are being drowned out by a leadership team that seems to sing from an entirely different hymn sheet  
+
+Sin números: 
+ There are current Liberal Democrat MPs that have pioneered social democratic solutions to problems of social exclusion and injustice  Simon Hughes has made countless interventions on issues of housing and youth violence  On Sunday  I listened to Richard Grayson   the former Liberal Democrat director of policy  make an eloquent case for a more active state  Yet these voices are being drowned out by a leadership team that seems to sing from an entirely different hymn sheet  
+
+Minúsculas: 
+ there are current liberal democrat mps that have pioneered social democratic solutions to problems of social exclusion and injustice  simon hughes has made countless interventions on issues of housing and youth violence  on sunday  i listened to richard grayson   the former liberal democrat director of policy  make an eloquent case for a more active state  yet these voices are being drowned out by a leadership team that seems to sing from an entirely different hymn sheet  
+
+Palabras: 
+ ['there', 'are', 'current', 'liberal', 'democrat', 'mps', 'that', 'have', 'pioneered', 'social', 'democratic', 'solutions', 'to', 'problems', 'of', 'social', 'exclusion', 'and', 'injustice', 'simon', 'hughes', 'has', 'made', 'countless', 'interventions', 'on', 'issues', 'of', 'housing', 'and', 'youth', 'violence', 'on', 'sunday', 'i', 'listened', 'to', 'richard', 'grayson', 'the', 'former', 'liberal', 'democrat', 'director', 'of', 'policy', 'make', 'an', 'eloquent', 'case', 'for', 'a', 'more', 'active', 'state', 'yet', 'these', 'voices', 'are', 'being', 'drowned', 'out', 'by', 'a', 'leadership', 'team', 'that', 'seems', 'to', 'sing', 'from', 'an', 'entirely', 'different', 'hymn', 'sheet']
+
+Sin cerradas: 
+ ['current', 'liberal', 'democrat', 'mps', 'pioneered', 'social', 'democratic', 'solutions', 'problems', 'social', 'exclusion', 'injustice', 'simon', 'hughes', 'made', 'countless', 'interventions', 'issues', 'housing', 'youth', 'violence', 'sunday', 'listened', 'richard', 'grayson', 'former', 'liberal', 'democrat', 'director', 'policy', 'make', 'eloquent', 'case', 'active', 'state', 'yet', 'voices', 'drowned', 'leadership', 'team', 'seems', 'sing', 'entirely', 'different', 'hymn', 'sheet']
+
+Truncadas: 
+ ['current', 'liber', 'democrat', 'mp', 'pioneer', 'social', 'democrat', 'solut', 'problem', 'social', 'exclus', 'injustic', 'simon', 'hugh', 'made', 'countless', 'intervent', 'issu', 'hous', 'youth', 'violenc', 'sunday', 'listen', 'richard', 'grayson', 'former', 'liber', 'democrat', 'director', 'polici', 'make', 'eloqu', 'case', 'activ', 'state', 'yet', 'voic', 'drown', 'leadership', 'team', 'seem', 'sing', 'entir', 'differ', 'hymn', 'sheet']
+
+Texto final: 
+ current liber democrat mp pioneer social democrat solut problem social exclus injustic simon hugh made countless intervent issu hous youth violenc sunday listen richard grayson former liber democrat director polici make eloqu case activ state yet voic drown leadership team seem sing entir differ hymn sheet

@@ -1,0 +1,24 @@
+originales/document0011 (2).txt
+Original: 
+ The prediction is that less than 70% of voters will bother to go to a ballot box. And the young, who might resolve the coming logjam, will barely vote at all. 
+
+Sin signos de puntuación: 
+ The prediction is that less than 70  of voters will bother to go to a ballot box  And the young  who might resolve the coming logjam  will barely vote at all  
+
+Sin números: 
+ The prediction is that less than   of voters will bother to go to a ballot box  And the young  who might resolve the coming logjam  will barely vote at all  
+
+Minúsculas: 
+ the prediction is that less than   of voters will bother to go to a ballot box  and the young  who might resolve the coming logjam  will barely vote at all  
+
+Palabras: 
+ ['the', 'prediction', 'is', 'that', 'less', 'than', 'of', 'voters', 'will', 'bother', 'to', 'go', 'to', 'a', 'ballot', 'box', 'and', 'the', 'young', 'who', 'might', 'resolve', 'the', 'coming', 'logjam', 'will', 'barely', 'vote', 'at', 'all']
+
+Sin cerradas: 
+ ['prediction', 'less', 'voters', 'bother', 'go', 'ballot', 'box', 'young', 'might', 'resolve', 'coming', 'logjam', 'barely', 'vote']
+
+Truncadas: 
+ ['predict', 'less', 'voter', 'bother', 'go', 'ballot', 'box', 'young', 'might', 'resolv', 'come', 'logjam', 'bare', 'vote']
+
+Texto final: 
+ predict less voter bother go ballot box young might resolv come logjam bare vote

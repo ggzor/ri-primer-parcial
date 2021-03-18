@@ -1,0 +1,24 @@
+originales/document0012 (2).txt
+Original: 
+ Such forces of darkness must not be allowed to ruin the restorative work of the Tories. After all, cranes were now dotting the London skyline “like some speeded-up Walt Disney film about the return of spring to the Canadian tundra!” And Britain is doing a roaring trade. “Assisted by George Osborne’s tax breaks, we even at one stage succeeded in exporting Russell Brand to America. Unfortunately, he seems to have mysteriously returned.” 
+
+Sin signos de puntuación: 
+ Such forces of darkness must not be allowed to ruin the restorative work of the Tories  After all  cranes were now dotting the London skyline  like some speeded up Walt Disney film about the return of spring to the Canadian tundra   And Britain is doing a roaring trade   Assisted by George Osborne s tax breaks  we even at one stage succeeded in exporting Russell Brand to America  Unfortunately  he seems to have mysteriously returned   
+
+Sin números: 
+ Such forces of darkness must not be allowed to ruin the restorative work of the Tories  After all  cranes were now dotting the London skyline  like some speeded up Walt Disney film about the return of spring to the Canadian tundra   And Britain is doing a roaring trade   Assisted by George Osborne s tax breaks  we even at one stage succeeded in exporting Russell Brand to America  Unfortunately  he seems to have mysteriously returned   
+
+Minúsculas: 
+ such forces of darkness must not be allowed to ruin the restorative work of the tories  after all  cranes were now dotting the london skyline  like some speeded up walt disney film about the return of spring to the canadian tundra   and britain is doing a roaring trade   assisted by george osborne s tax breaks  we even at one stage succeeded in exporting russell brand to america  unfortunately  he seems to have mysteriously returned   
+
+Palabras: 
+ ['such', 'forces', 'of', 'darkness', 'must', 'not', 'be', 'allowed', 'to', 'ruin', 'the', 'restorative', 'work', 'of', 'the', 'tories', 'after', 'all', 'cranes', 'were', 'now', 'dotting', 'the', 'london', 'skyline', 'like', 'some', 'speeded', 'up', 'walt', 'disney', 'film', 'about', 'the', 'return', 'of', 'spring', 'to', 'the', 'canadian', 'tundra', 'and', 'britain', 'is', 'doing', 'a', 'roaring', 'trade', 'assisted', 'by', 'george', 'osborne', 's', 'tax', 'breaks', 'we', 'even', 'at', 'one', 'stage', 'succeeded', 'in', 'exporting', 'russell', 'brand', 'to', 'america', 'unfortunately', 'he', 'seems', 'to', 'have', 'mysteriously', 'returned']
+
+Sin cerradas: 
+ ['forces', 'darkness', 'must', 'allowed', 'ruin', 'restorative', 'work', 'tories', 'cranes', 'dotting', 'london', 'skyline', 'like', 'speeded', 'walt', 'disney', 'film', 'return', 'spring', 'canadian', 'tundra', 'britain', 'roaring', 'trade', 'assisted', 'george', 'osborne', 'tax', 'breaks', 'even', 'one', 'stage', 'succeeded', 'exporting', 'russell', 'brand', 'america', 'unfortunately', 'seems', 'mysteriously', 'returned']
+
+Truncadas: 
+ ['forc', 'dark', 'must', 'allow', 'ruin', 'restor', 'work', 'tori', 'crane', 'dot', 'london', 'skylin', 'like', 'speed', 'walt', 'disney', 'film', 'return', 'spring', 'canadian', 'tundra', 'britain', 'roar', 'trade', 'assist', 'georg', 'osborn', 'tax', 'break', 'even', 'one', 'stage', 'succeed', 'export', 'russel', 'brand', 'america', 'unfortun', 'seem', 'mysteri', 'return']
+
+Texto final: 
+ forc dark must allow ruin restor work tori crane dot london skylin like speed walt disney film return spring canadian tundra britain roar trade assist georg osborn tax break even one stage succeed export russel brand america unfortun seem mysteri return

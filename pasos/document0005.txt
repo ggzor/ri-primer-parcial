@@ -1,0 +1,24 @@
+originales/document0005.txt
+Original: 
+ Just not as sorry as everyone who hadn’t voted Lib Dem – from the remorseful Green voter who greeted him almost in tears on the morning of 8 May, to, well, everyone else who now had “buyers’ remorse”. 
+
+Sin signos de puntuación: 
+ Just not as sorry as everyone who hadn t voted Lib Dem – from the remorseful Green voter who greeted him almost in tears on the morning of 8 May  to  well  everyone else who now had  buyers  remorse   
+
+Sin números: 
+ Just not as sorry as everyone who hadn t voted Lib Dem – from the remorseful Green voter who greeted him almost in tears on the morning of  May  to  well  everyone else who now had  buyers  remorse   
+
+Minúsculas: 
+ just not as sorry as everyone who hadn t voted lib dem – from the remorseful green voter who greeted him almost in tears on the morning of  may  to  well  everyone else who now had  buyers  remorse   
+
+Palabras: 
+ ['just', 'not', 'as', 'sorry', 'as', 'everyone', 'who', 'hadn', 't', 'voted', 'lib', 'dem', 'from', 'the', 'remorseful', 'green', 'voter', 'who', 'greeted', 'him', 'almost', 'in', 'tears', 'on', 'the', 'morning', 'of', 'may', 'to', 'well', 'everyone', 'else', 'who', 'now', 'had', 'buyers', 'remorse']
+
+Sin cerradas: 
+ ['sorry', 'everyone', 'voted', 'lib', 'dem', 'remorseful', 'green', 'voter', 'greeted', 'almost', 'tears', 'morning', 'may', 'well', 'everyone', 'else', 'buyers', 'remorse']
+
+Truncadas: 
+ ['sorri', 'everyon', 'vote', 'lib', 'dem', 'remors', 'green', 'voter', 'greet', 'almost', 'tear', 'morn', 'may', 'well', 'everyon', 'els', 'buyer', 'remors']
+
+Texto final: 
+ sorri everyon vote lib dem remors green voter greet almost tear morn may well everyon els buyer remors

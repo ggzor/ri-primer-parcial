@@ -1,0 +1,24 @@
+originales/document0006 (3).txt
+Original: 
+ Like recalcitrant pupils bribed with the promise of a treat on the first day of term, MPs hurried back to Westminster after the summer break with less foot-dragging than usual. The tea room was crowded by mid-morning. You could see why. Apart from ministers about to be sacked in David Cameron's first unforced reshuffle, everyone was guaranteed some cruel laughter. 
+
+Sin signos de puntuación: 
+ Like recalcitrant pupils bribed with the promise of a treat on the first day of term  MPs hurried back to Westminster after the summer break with less foot dragging than usual  The tea room was crowded by mid morning  You could see why  Apart from ministers about to be sacked in David Cameron s first unforced reshuffle  everyone was guaranteed some cruel laughter  
+
+Sin números: 
+ Like recalcitrant pupils bribed with the promise of a treat on the first day of term  MPs hurried back to Westminster after the summer break with less foot dragging than usual  The tea room was crowded by mid morning  You could see why  Apart from ministers about to be sacked in David Cameron s first unforced reshuffle  everyone was guaranteed some cruel laughter  
+
+Minúsculas: 
+ like recalcitrant pupils bribed with the promise of a treat on the first day of term  mps hurried back to westminster after the summer break with less foot dragging than usual  the tea room was crowded by mid morning  you could see why  apart from ministers about to be sacked in david cameron s first unforced reshuffle  everyone was guaranteed some cruel laughter  
+
+Palabras: 
+ ['like', 'recalcitrant', 'pupils', 'bribed', 'with', 'the', 'promise', 'of', 'a', 'treat', 'on', 'the', 'first', 'day', 'of', 'term', 'mps', 'hurried', 'back', 'to', 'westminster', 'after', 'the', 'summer', 'break', 'with', 'less', 'foot', 'dragging', 'than', 'usual', 'the', 'tea', 'room', 'was', 'crowded', 'by', 'mid', 'morning', 'you', 'could', 'see', 'why', 'apart', 'from', 'ministers', 'about', 'to', 'be', 'sacked', 'in', 'david', 'cameron', 's', 'first', 'unforced', 'reshuffle', 'everyone', 'was', 'guaranteed', 'some', 'cruel', 'laughter']
+
+Sin cerradas: 
+ ['like', 'recalcitrant', 'pupils', 'bribed', 'promise', 'treat', 'first', 'day', 'term', 'mps', 'hurried', 'back', 'westminster', 'summer', 'break', 'less', 'foot', 'dragging', 'usual', 'tea', 'room', 'crowded', 'mid', 'morning', 'could', 'see', 'apart', 'ministers', 'sacked', 'david', 'cameron', 'first', 'unforced', 'reshuffle', 'everyone', 'guaranteed', 'cruel', 'laughter']
+
+Truncadas: 
+ ['like', 'recalcitr', 'pupil', 'bribe', 'promis', 'treat', 'first', 'day', 'term', 'mp', 'hurri', 'back', 'westminst', 'summer', 'break', 'less', 'foot', 'drag', 'usual', 'tea', 'room', 'crowd', 'mid', 'morn', 'could', 'see', 'apart', 'minist', 'sack', 'david', 'cameron', 'first', 'unforc', 'reshuffl', 'everyon', 'guarante', 'cruel', 'laughter']
+
+Texto final: 
+ like recalcitr pupil bribe promis treat first day term mp hurri back westminst summer break less foot drag usual tea room crowd mid morn could see apart minist sack david cameron first unforc reshuffl everyon guarante cruel laughter

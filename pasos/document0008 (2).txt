@@ -1,0 +1,24 @@
+originales/document0008 (2).txt
+Original: 
+ If the Scots vote yes to independence on 18 September, the Scottish government hopes that Independence Day will be on 24 March 2016, and that the first parliament of an independent Scotland will be elected on 5 May that year. It points out that the UK government has promised to "work together constructively in the light of the outcome, whatever it is". So, can independence be achieved in 18 months? 
+
+Sin signos de puntuación: 
+ If the Scots vote yes to independence on 18 September  the Scottish government hopes that Independence Day will be on 24 March 2016  and that the first parliament of an independent Scotland will be elected on 5 May that year  It points out that the UK government has promised to  work together constructively in the light of the outcome  whatever it is   So  can independence be achieved in 18 months  
+
+Sin números: 
+ If the Scots vote yes to independence on  September  the Scottish government hopes that Independence Day will be on  March   and that the first parliament of an independent Scotland will be elected on  May that year  It points out that the UK government has promised to  work together constructively in the light of the outcome  whatever it is   So  can independence be achieved in  months  
+
+Minúsculas: 
+ if the scots vote yes to independence on  september  the scottish government hopes that independence day will be on  march   and that the first parliament of an independent scotland will be elected on  may that year  it points out that the uk government has promised to  work together constructively in the light of the outcome  whatever it is   so  can independence be achieved in  months  
+
+Palabras: 
+ ['if', 'the', 'scots', 'vote', 'yes', 'to', 'independence', 'on', 'september', 'the', 'scottish', 'government', 'hopes', 'that', 'independence', 'day', 'will', 'be', 'on', 'march', 'and', 'that', 'the', 'first', 'parliament', 'of', 'an', 'independent', 'scotland', 'will', 'be', 'elected', 'on', 'may', 'that', 'year', 'it', 'points', 'out', 'that', 'the', 'uk', 'government', 'has', 'promised', 'to', 'work', 'together', 'constructively', 'in', 'the', 'light', 'of', 'the', 'outcome', 'whatever', 'it', 'is', 'so', 'can', 'independence', 'be', 'achieved', 'in', 'months']
+
+Sin cerradas: 
+ ['scots', 'vote', 'yes', 'independence', 'september', 'scottish', 'government', 'hopes', 'independence', 'day', 'march', 'first', 'parliament', 'independent', 'scotland', 'elected', 'may', 'year', 'points', 'uk', 'government', 'promised', 'work', 'together', 'constructively', 'light', 'outcome', 'whatever', 'independence', 'achieved', 'months']
+
+Truncadas: 
+ ['scot', 'vote', 'ye', 'independ', 'septemb', 'scottish', 'govern', 'hope', 'independ', 'day', 'march', 'first', 'parliament', 'independ', 'scotland', 'elect', 'may', 'year', 'point', 'uk', 'govern', 'promis', 'work', 'togeth', 'construct', 'light', 'outcom', 'whatev', 'independ', 'achiev', 'month']
+
+Texto final: 
+ scot vote ye independ septemb scottish govern hope independ day march first parliament independ scotland elect may year point uk govern promis work togeth construct light outcom whatev independ achiev month

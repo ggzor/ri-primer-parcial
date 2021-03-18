@@ -1,0 +1,24 @@
+originales/document0003.txt
+Original: 
+ I have argued throughout that the ministerial code had been broken. Governments must have rules and ministers must have standards: Liam Fox fell foul of the standards and he broke the rules. It now appears clear that while Dr Fox treated Mr Werritty as a friend, Mr Werritty treated Dr Fox as a franchise to bolster his income. 
+
+Sin signos de puntuación: 
+ I have argued throughout that the ministerial code had been broken  Governments must have rules and ministers must have standards  Liam Fox fell foul of the standards and he broke the rules  It now appears clear that while Dr Fox treated Mr Werritty as a friend  Mr Werritty treated Dr Fox as a franchise to bolster his income  
+
+Sin números: 
+ I have argued throughout that the ministerial code had been broken  Governments must have rules and ministers must have standards  Liam Fox fell foul of the standards and he broke the rules  It now appears clear that while Dr Fox treated Mr Werritty as a friend  Mr Werritty treated Dr Fox as a franchise to bolster his income  
+
+Minúsculas: 
+ i have argued throughout that the ministerial code had been broken  governments must have rules and ministers must have standards  liam fox fell foul of the standards and he broke the rules  it now appears clear that while dr fox treated mr werritty as a friend  mr werritty treated dr fox as a franchise to bolster his income  
+
+Palabras: 
+ ['i', 'have', 'argued', 'throughout', 'that', 'the', 'ministerial', 'code', 'had', 'been', 'broken', 'governments', 'must', 'have', 'rules', 'and', 'ministers', 'must', 'have', 'standards', 'liam', 'fox', 'fell', 'foul', 'of', 'the', 'standards', 'and', 'he', 'broke', 'the', 'rules', 'it', 'now', 'appears', 'clear', 'that', 'while', 'dr', 'fox', 'treated', 'mr', 'werritty', 'as', 'a', 'friend', 'mr', 'werritty', 'treated', 'dr', 'fox', 'as', 'a', 'franchise', 'to', 'bolster', 'his', 'income']
+
+Sin cerradas: 
+ ['argued', 'throughout', 'ministerial', 'code', 'broken', 'governments', 'must', 'rules', 'ministers', 'must', 'standards', 'liam', 'fox', 'fell', 'foul', 'standards', 'broke', 'rules', 'appears', 'clear', 'dr', 'fox', 'treated', 'mr', 'werritty', 'friend', 'mr', 'werritty', 'treated', 'dr', 'fox', 'franchise', 'bolster', 'income']
+
+Truncadas: 
+ ['argu', 'throughout', 'ministeri', 'code', 'broken', 'govern', 'must', 'rule', 'minist', 'must', 'standard', 'liam', 'fox', 'fell', 'foul', 'standard', 'broke', 'rule', 'appear', 'clear', 'dr', 'fox', 'treat', 'mr', 'werritti', 'friend', 'mr', 'werritti', 'treat', 'dr', 'fox', 'franchis', 'bolster', 'incom']
+
+Texto final: 
+ argu throughout ministeri code broken govern must rule minist must standard liam fox fell foul standard broke rule appear clear dr fox treat mr werritti friend mr werritti treat dr fox franchis bolster incom

@@ -1,0 +1,24 @@
+originales/document0013 (2).txt
+Original: 
+ Yet huge unanswered issues still remain. We still do not know precisely who paid Mr Werritty, when, and for what gain. We do not know the true role of organisations including the Sri Lanka Development Fund. It is essential that, after the cabinet secretary completes his report on Fox/Werritty, the government refers the wider issues to the independent adviser on ministers' interests. He should look at the issues in their entirety to establish precisely how this never happens again. 
+
+Sin signos de puntuación: 
+ Yet huge unanswered issues still remain  We still do not know precisely who paid Mr Werritty  when  and for what gain  We do not know the true role of organisations including the Sri Lanka Development Fund  It is essential that  after the cabinet secretary completes his report on Fox Werritty  the government refers the wider issues to the independent adviser on ministers  interests  He should look at the issues in their entirety to establish precisely how this never happens again  
+
+Sin números: 
+ Yet huge unanswered issues still remain  We still do not know precisely who paid Mr Werritty  when  and for what gain  We do not know the true role of organisations including the Sri Lanka Development Fund  It is essential that  after the cabinet secretary completes his report on Fox Werritty  the government refers the wider issues to the independent adviser on ministers  interests  He should look at the issues in their entirety to establish precisely how this never happens again  
+
+Minúsculas: 
+ yet huge unanswered issues still remain  we still do not know precisely who paid mr werritty  when  and for what gain  we do not know the true role of organisations including the sri lanka development fund  it is essential that  after the cabinet secretary completes his report on fox werritty  the government refers the wider issues to the independent adviser on ministers  interests  he should look at the issues in their entirety to establish precisely how this never happens again  
+
+Palabras: 
+ ['yet', 'huge', 'unanswered', 'issues', 'still', 'remain', 'we', 'still', 'do', 'not', 'know', 'precisely', 'who', 'paid', 'mr', 'werritty', 'when', 'and', 'for', 'what', 'gain', 'we', 'do', 'not', 'know', 'the', 'true', 'role', 'of', 'organisations', 'including', 'the', 'sri', 'lanka', 'development', 'fund', 'it', 'is', 'essential', 'that', 'after', 'the', 'cabinet', 'secretary', 'completes', 'his', 'report', 'on', 'fox', 'werritty', 'the', 'government', 'refers', 'the', 'wider', 'issues', 'to', 'the', 'independent', 'adviser', 'on', 'ministers', 'interests', 'he', 'should', 'look', 'at', 'the', 'issues', 'in', 'their', 'entirety', 'to', 'establish', 'precisely', 'how', 'this', 'never', 'happens', 'again']
+
+Sin cerradas: 
+ ['yet', 'huge', 'unanswered', 'issues', 'still', 'remain', 'still', 'know', 'precisely', 'paid', 'mr', 'werritty', 'gain', 'know', 'true', 'role', 'organisations', 'including', 'sri', 'lanka', 'development', 'fund', 'essential', 'cabinet', 'secretary', 'completes', 'report', 'fox', 'werritty', 'government', 'refers', 'wider', 'issues', 'independent', 'adviser', 'ministers', 'interests', 'look', 'issues', 'entirety', 'establish', 'precisely', 'never', 'happens']
+
+Truncadas: 
+ ['yet', 'huge', 'unansw', 'issu', 'still', 'remain', 'still', 'know', 'precis', 'paid', 'mr', 'werritti', 'gain', 'know', 'true', 'role', 'organis', 'includ', 'sri', 'lanka', 'develop', 'fund', 'essenti', 'cabinet', 'secretari', 'complet', 'report', 'fox', 'werritti', 'govern', 'refer', 'wider', 'issu', 'independ', 'advis', 'minist', 'interest', 'look', 'issu', 'entireti', 'establish', 'precis', 'never', 'happen']
+
+Texto final: 
+ yet huge unansw issu still remain still know precis paid mr werritti gain know true role organis includ sri lanka develop fund essenti cabinet secretari complet report fox werritti govern refer wider issu independ advis minist interest look issu entireti establish precis never happen

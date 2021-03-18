@@ -1,0 +1,24 @@
+originales/document0019 (3).txt
+Original: 
+ “We have a piece of paper in our hand,” Nigel started, waving the Ukip manifesto. It wasn’t quite Neville Chamberlain but perhaps that was just as well. “We are the party who wants our country back,” he continued. “We aren’t against immigrants. We are just against the wrong kind of immigrants. We don’t want foreign criminals. And we don’t want to benefit scroungers. No one should be able to claim benefits unless they have paid their taxes for five years and have no criminal convictions.” 
+
+Sin signos de puntuación: 
+  We have a piece of paper in our hand   Nigel started  waving the Ukip manifesto  It wasn t quite Neville Chamberlain but perhaps that was just as well   We are the party who wants our country back   he continued   We aren t against immigrants  We are just against the wrong kind of immigrants  We don t want foreign criminals  And we don t want to benefit scroungers  No one should be able to claim benefits unless they have paid their taxes for five years and have no criminal convictions   
+
+Sin números: 
+  We have a piece of paper in our hand   Nigel started  waving the Ukip manifesto  It wasn t quite Neville Chamberlain but perhaps that was just as well   We are the party who wants our country back   he continued   We aren t against immigrants  We are just against the wrong kind of immigrants  We don t want foreign criminals  And we don t want to benefit scroungers  No one should be able to claim benefits unless they have paid their taxes for five years and have no criminal convictions   
+
+Minúsculas: 
+  we have a piece of paper in our hand   nigel started  waving the ukip manifesto  it wasn t quite neville chamberlain but perhaps that was just as well   we are the party who wants our country back   he continued   we aren t against immigrants  we are just against the wrong kind of immigrants  we don t want foreign criminals  and we don t want to benefit scroungers  no one should be able to claim benefits unless they have paid their taxes for five years and have no criminal convictions   
+
+Palabras: 
+ ['we', 'have', 'a', 'piece', 'of', 'paper', 'in', 'our', 'hand', 'nigel', 'started', 'waving', 'the', 'ukip', 'manifesto', 'it', 'wasn', 't', 'quite', 'neville', 'chamberlain', 'but', 'perhaps', 'that', 'was', 'just', 'as', 'well', 'we', 'are', 'the', 'party', 'who', 'wants', 'our', 'country', 'back', 'he', 'continued', 'we', 'aren', 't', 'against', 'immigrants', 'we', 'are', 'just', 'against', 'the', 'wrong', 'kind', 'of', 'immigrants', 'we', 'don', 't', 'want', 'foreign', 'criminals', 'and', 'we', 'don', 't', 'want', 'to', 'benefit', 'scroungers', 'no', 'one', 'should', 'be', 'able', 'to', 'claim', 'benefits', 'unless', 'they', 'have', 'paid', 'their', 'taxes', 'for', 'five', 'years', 'and', 'have', 'no', 'criminal', 'convictions']
+
+Sin cerradas: 
+ ['piece', 'paper', 'hand', 'nigel', 'started', 'waving', 'ukip', 'manifesto', 'quite', 'neville', 'chamberlain', 'perhaps', 'well', 'party', 'wants', 'country', 'back', 'continued', 'immigrants', 'wrong', 'kind', 'immigrants', 'want', 'foreign', 'criminals', 'want', 'benefit', 'scroungers', 'one', 'able', 'claim', 'benefits', 'unless', 'paid', 'taxes', 'five', 'years', 'criminal', 'convictions']
+
+Truncadas: 
+ ['piec', 'paper', 'hand', 'nigel', 'start', 'wave', 'ukip', 'manifesto', 'quit', 'nevil', 'chamberlain', 'perhap', 'well', 'parti', 'want', 'countri', 'back', 'continu', 'immigr', 'wrong', 'kind', 'immigr', 'want', 'foreign', 'crimin', 'want', 'benefit', 'scrounger', 'one', 'abl', 'claim', 'benefit', 'unless', 'paid', 'tax', 'five', 'year', 'crimin', 'convict']
+
+Texto final: 
+ piec paper hand nigel start wave ukip manifesto quit nevil chamberlain perhap well parti want countri back continu immigr wrong kind immigr want foreign crimin want benefit scrounger one abl claim benefit unless paid tax five year crimin convict

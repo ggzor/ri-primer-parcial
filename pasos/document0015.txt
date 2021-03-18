@@ -1,0 +1,24 @@
+originales/document0015.txt
+Original: 
+ I agree with that verdict and have done from day one of the House of Corbyn. Only Jeremy himself or the wider electorate can get rid of him. And, unlike the disconsolate Labour MP with whom I shared a train journey home last night, I don’t think bad results in May’s local and mayoral elections will be enough to bring down his house yet. 
+
+Sin signos de puntuación: 
+ I agree with that verdict and have done from day one of the House of Corbyn  Only Jeremy himself or the wider electorate can get rid of him  And  unlike the disconsolate Labour MP with whom I shared a train journey home last night  I don t think bad results in May s local and mayoral elections will be enough to bring down his house yet  
+
+Sin números: 
+ I agree with that verdict and have done from day one of the House of Corbyn  Only Jeremy himself or the wider electorate can get rid of him  And  unlike the disconsolate Labour MP with whom I shared a train journey home last night  I don t think bad results in May s local and mayoral elections will be enough to bring down his house yet  
+
+Minúsculas: 
+ i agree with that verdict and have done from day one of the house of corbyn  only jeremy himself or the wider electorate can get rid of him  and  unlike the disconsolate labour mp with whom i shared a train journey home last night  i don t think bad results in may s local and mayoral elections will be enough to bring down his house yet  
+
+Palabras: 
+ ['i', 'agree', 'with', 'that', 'verdict', 'and', 'have', 'done', 'from', 'day', 'one', 'of', 'the', 'house', 'of', 'corbyn', 'only', 'jeremy', 'himself', 'or', 'the', 'wider', 'electorate', 'can', 'get', 'rid', 'of', 'him', 'and', 'unlike', 'the', 'disconsolate', 'labour', 'mp', 'with', 'whom', 'i', 'shared', 'a', 'train', 'journey', 'home', 'last', 'night', 'i', 'don', 't', 'think', 'bad', 'results', 'in', 'may', 's', 'local', 'and', 'mayoral', 'elections', 'will', 'be', 'enough', 'to', 'bring', 'down', 'his', 'house', 'yet']
+
+Sin cerradas: 
+ ['agree', 'verdict', 'done', 'day', 'one', 'house', 'corbyn', 'jeremy', 'wider', 'electorate', 'get', 'rid', 'unlike', 'disconsolate', 'labour', 'mp', 'shared', 'train', 'journey', 'home', 'last', 'night', 'think', 'bad', 'results', 'may', 'local', 'mayoral', 'elections', 'enough', 'bring', 'house', 'yet']
+
+Truncadas: 
+ ['agre', 'verdict', 'done', 'day', 'one', 'hous', 'corbyn', 'jeremi', 'wider', 'elector', 'get', 'rid', 'unlik', 'disconsol', 'labour', 'mp', 'share', 'train', 'journey', 'home', 'last', 'night', 'think', 'bad', 'result', 'may', 'local', 'mayor', 'elect', 'enough', 'bring', 'hous', 'yet']
+
+Texto final: 
+ agre verdict done day one hous corbyn jeremi wider elector get rid unlik disconsol labour mp share train journey home last night think bad result may local mayor elect enough bring hous yet

@@ -1,0 +1,24 @@
+originales/document0019 (2).txt
+Original: 
+ How curious that, having run out of other races to attack, they are turning once again on the Scots. The tacticians swear Cameron is taking care to distinguish between Nicola Sturgeon’s party and the people north of the Tweed. But it’s a delicate business when her party will carry nearly ever seat in Scotland. 
+
+Sin signos de puntuación: 
+ How curious that  having run out of other races to attack  they are turning once again on the Scots  The tacticians swear Cameron is taking care to distinguish between Nicola Sturgeon s party and the people north of the Tweed  But it s a delicate business when her party will carry nearly ever seat in Scotland  
+
+Sin números: 
+ How curious that  having run out of other races to attack  they are turning once again on the Scots  The tacticians swear Cameron is taking care to distinguish between Nicola Sturgeon s party and the people north of the Tweed  But it s a delicate business when her party will carry nearly ever seat in Scotland  
+
+Minúsculas: 
+ how curious that  having run out of other races to attack  they are turning once again on the scots  the tacticians swear cameron is taking care to distinguish between nicola sturgeon s party and the people north of the tweed  but it s a delicate business when her party will carry nearly ever seat in scotland  
+
+Palabras: 
+ ['how', 'curious', 'that', 'having', 'run', 'out', 'of', 'other', 'races', 'to', 'attack', 'they', 'are', 'turning', 'once', 'again', 'on', 'the', 'scots', 'the', 'tacticians', 'swear', 'cameron', 'is', 'taking', 'care', 'to', 'distinguish', 'between', 'nicola', 'sturgeon', 's', 'party', 'and', 'the', 'people', 'north', 'of', 'the', 'tweed', 'but', 'it', 's', 'a', 'delicate', 'business', 'when', 'her', 'party', 'will', 'carry', 'nearly', 'ever', 'seat', 'in', 'scotland']
+
+Sin cerradas: 
+ ['curious', 'run', 'races', 'attack', 'turning', 'scots', 'tacticians', 'swear', 'cameron', 'taking', 'care', 'distinguish', 'nicola', 'sturgeon', 'party', 'people', 'north', 'tweed', 'delicate', 'business', 'party', 'carry', 'nearly', 'ever', 'seat', 'scotland']
+
+Truncadas: 
+ ['curiou', 'run', 'race', 'attack', 'turn', 'scot', 'tactician', 'swear', 'cameron', 'take', 'care', 'distinguish', 'nicola', 'sturgeon', 'parti', 'peopl', 'north', 'tweed', 'delic', 'busi', 'parti', 'carri', 'nearli', 'ever', 'seat', 'scotland']
+
+Texto final: 
+ curiou run race attack turn scot tactician swear cameron take care distinguish nicola sturgeon parti peopl north tweed delic busi parti carri nearli ever seat scotland

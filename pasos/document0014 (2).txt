@@ -1,0 +1,24 @@
+originales/document0014 (2).txt
+Original: 
+ Disappointingly, Cameron declined to answer: “Don’t be absurd, madam. Boris was in D block while I was still in F block. And Osborne only went to St Paul’s, which is why his Bullingdon nickname was “Oik ”. Instead, the PM claimed: “It’s good to have lively questions!”, like someone who hasn’t just spent the past five-and -a-half weeks avoiding voters in cowsheds and on sterilised factory floors. 
+
+Sin signos de puntuación: 
+ Disappointingly  Cameron declined to answer   Don t be absurd  madam  Boris was in D block while I was still in F block  And Osborne only went to St Paul s  which is why his Bullingdon nickname was  Oik    Instead  the PM claimed   It s good to have lively questions    like someone who hasn t just spent the past five and  a half weeks avoiding voters in cowsheds and on sterilised factory floors  
+
+Sin números: 
+ Disappointingly  Cameron declined to answer   Don t be absurd  madam  Boris was in D block while I was still in F block  And Osborne only went to St Paul s  which is why his Bullingdon nickname was  Oik    Instead  the PM claimed   It s good to have lively questions    like someone who hasn t just spent the past five and  a half weeks avoiding voters in cowsheds and on sterilised factory floors  
+
+Minúsculas: 
+ disappointingly  cameron declined to answer   don t be absurd  madam  boris was in d block while i was still in f block  and osborne only went to st paul s  which is why his bullingdon nickname was  oik    instead  the pm claimed   it s good to have lively questions    like someone who hasn t just spent the past five and  a half weeks avoiding voters in cowsheds and on sterilised factory floors  
+
+Palabras: 
+ ['disappointingly', 'cameron', 'declined', 'to', 'answer', 'don', 't', 'be', 'absurd', 'madam', 'boris', 'was', 'in', 'd', 'block', 'while', 'i', 'was', 'still', 'in', 'f', 'block', 'and', 'osborne', 'only', 'went', 'to', 'st', 'paul', 's', 'which', 'is', 'why', 'his', 'bullingdon', 'nickname', 'was', 'oik', 'instead', 'the', 'pm', 'claimed', 'it', 's', 'good', 'to', 'have', 'lively', 'questions', 'like', 'someone', 'who', 'hasn', 't', 'just', 'spent', 'the', 'past', 'five', 'and', 'a', 'half', 'weeks', 'avoiding', 'voters', 'in', 'cowsheds', 'and', 'on', 'sterilised', 'factory', 'floors']
+
+Sin cerradas: 
+ ['disappointingly', 'cameron', 'declined', 'answer', 'absurd', 'madam', 'boris', 'block', 'still', 'f', 'block', 'osborne', 'went', 'st', 'paul', 'bullingdon', 'nickname', 'oik', 'instead', 'pm', 'claimed', 'good', 'lively', 'questions', 'like', 'someone', 'spent', 'past', 'five', 'half', 'weeks', 'avoiding', 'voters', 'cowsheds', 'sterilised', 'factory', 'floors']
+
+Truncadas: 
+ ['disappointingli', 'cameron', 'declin', 'answer', 'absurd', 'madam', 'bori', 'block', 'still', 'f', 'block', 'osborn', 'went', 'st', 'paul', 'bullingdon', 'nicknam', 'oik', 'instead', 'pm', 'claim', 'good', 'live', 'question', 'like', 'someon', 'spent', 'past', 'five', 'half', 'week', 'avoid', 'voter', 'cowsh', 'sterilis', 'factori', 'floor']
+
+Texto final: 
+ disappointingli cameron declin answer absurd madam bori block still f block osborn went st paul bullingdon nicknam oik instead pm claim good live question like someon spent past five half week avoid voter cowsh sterilis factori floor

@@ -1,0 +1,24 @@
+originales/document0020 (3).txt
+Original: 
+ Clearly young Brine has been asleep since 2008's bank crash, which revealed that assorted Moonies, Tory card sharps and Doctor Who fans had chaired much bigger banks where they failed to spot risks that cost taxpayers billions. Cameron obviously overlooked it, too. 
+
+Sin signos de puntuación: 
+ Clearly young Brine has been asleep since 2008 s bank crash  which revealed that assorted Moonies  Tory card sharps and Doctor Who fans had chaired much bigger banks where they failed to spot risks that cost taxpayers billions  Cameron obviously overlooked it  too  
+
+Sin números: 
+ Clearly young Brine has been asleep since  s bank crash  which revealed that assorted Moonies  Tory card sharps and Doctor Who fans had chaired much bigger banks where they failed to spot risks that cost taxpayers billions  Cameron obviously overlooked it  too  
+
+Minúsculas: 
+ clearly young brine has been asleep since  s bank crash  which revealed that assorted moonies  tory card sharps and doctor who fans had chaired much bigger banks where they failed to spot risks that cost taxpayers billions  cameron obviously overlooked it  too  
+
+Palabras: 
+ ['clearly', 'young', 'brine', 'has', 'been', 'asleep', 'since', 's', 'bank', 'crash', 'which', 'revealed', 'that', 'assorted', 'moonies', 'tory', 'card', 'sharps', 'and', 'doctor', 'who', 'fans', 'had', 'chaired', 'much', 'bigger', 'banks', 'where', 'they', 'failed', 'to', 'spot', 'risks', 'that', 'cost', 'taxpayers', 'billions', 'cameron', 'obviously', 'overlooked', 'it', 'too']
+
+Sin cerradas: 
+ ['clearly', 'young', 'brine', 'asleep', 'since', 'bank', 'crash', 'revealed', 'assorted', 'moonies', 'tory', 'card', 'sharps', 'doctor', 'fans', 'chaired', 'much', 'bigger', 'banks', 'failed', 'spot', 'risks', 'cost', 'taxpayers', 'billions', 'cameron', 'obviously', 'overlooked']
+
+Truncadas: 
+ ['clearli', 'young', 'brine', 'asleep', 'sinc', 'bank', 'crash', 'reveal', 'assort', 'mooni', 'tori', 'card', 'sharp', 'doctor', 'fan', 'chair', 'much', 'bigger', 'bank', 'fail', 'spot', 'risk', 'cost', 'taxpay', 'billion', 'cameron', 'obvious', 'overlook']
+
+Texto final: 
+ clearli young brine asleep sinc bank crash reveal assort mooni tori card sharp doctor fan chair much bigger bank fail spot risk cost taxpay billion cameron obvious overlook

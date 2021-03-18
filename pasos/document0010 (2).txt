@@ -1,0 +1,24 @@
+originales/document0010 (2).txt
+Original: 
+ But even this appeal to ancient hatreds – “They’re coming, they’re coming and their faces are blue” – seems not to have excited the electorate much. Calm still reigns, calm and a strange willingness in the electorate to leave to politicians and constitutional lawyers the task of solving the problems of 8 May. 
+
+Sin signos de puntuación: 
+ But even this appeal to ancient hatreds –  They re coming  they re coming and their faces are blue  – seems not to have excited the electorate much  Calm still reigns  calm and a strange willingness in the electorate to leave to politicians and constitutional lawyers the task of solving the problems of 8 May  
+
+Sin números: 
+ But even this appeal to ancient hatreds –  They re coming  they re coming and their faces are blue  – seems not to have excited the electorate much  Calm still reigns  calm and a strange willingness in the electorate to leave to politicians and constitutional lawyers the task of solving the problems of  May  
+
+Minúsculas: 
+ but even this appeal to ancient hatreds –  they re coming  they re coming and their faces are blue  – seems not to have excited the electorate much  calm still reigns  calm and a strange willingness in the electorate to leave to politicians and constitutional lawyers the task of solving the problems of  may  
+
+Palabras: 
+ ['but', 'even', 'this', 'appeal', 'to', 'ancient', 'hatreds', 'they', 're', 'coming', 'they', 're', 'coming', 'and', 'their', 'faces', 'are', 'blue', 'seems', 'not', 'to', 'have', 'excited', 'the', 'electorate', 'much', 'calm', 'still', 'reigns', 'calm', 'and', 'a', 'strange', 'willingness', 'in', 'the', 'electorate', 'to', 'leave', 'to', 'politicians', 'and', 'constitutional', 'lawyers', 'the', 'task', 'of', 'solving', 'the', 'problems', 'of', 'may']
+
+Sin cerradas: 
+ ['even', 'appeal', 'ancient', 'hatreds', 'coming', 'coming', 'faces', 'blue', 'seems', 'excited', 'electorate', 'much', 'calm', 'still', 'reigns', 'calm', 'strange', 'willingness', 'electorate', 'leave', 'politicians', 'constitutional', 'lawyers', 'task', 'solving', 'problems', 'may']
+
+Truncadas: 
+ ['even', 'appeal', 'ancient', 'hatr', 'come', 'come', 'face', 'blue', 'seem', 'excit', 'elector', 'much', 'calm', 'still', 'reign', 'calm', 'strang', 'willing', 'elector', 'leav', 'politician', 'constitut', 'lawyer', 'task', 'solv', 'problem', 'may']
+
+Texto final: 
+ even appeal ancient hatr come come face blue seem excit elector much calm still reign calm strang willing elector leav politician constitut lawyer task solv problem may

@@ -1,0 +1,24 @@
+originales/document0019.txt
+Original: 
+ At this point the Labour leader had two options: to remind the PM of some dodgy Tory (and fragrant Lib Dem) donors, or to raise the threat to childcare in Cameron country, Chipping Norton, currently white-collar crime centre of the south-East. He chose the latter. In fairness to Cameron, he defended his childcare policies until the strain proved too much and he likened Labour's childcare plans to "a night out with Rev Flowers".
+
+Sin signos de puntuación: 
+ At this point the Labour leader had two options  to remind the PM of some dodgy Tory  and fragrant Lib Dem  donors  or to raise the threat to childcare in Cameron country  Chipping Norton  currently white collar crime centre of the south East  He chose the latter  In fairness to Cameron  he defended his childcare policies until the strain proved too much and he likened Labour s childcare plans to  a night out with Rev Flowers  
+
+Sin números: 
+ At this point the Labour leader had two options  to remind the PM of some dodgy Tory  and fragrant Lib Dem  donors  or to raise the threat to childcare in Cameron country  Chipping Norton  currently white collar crime centre of the south East  He chose the latter  In fairness to Cameron  he defended his childcare policies until the strain proved too much and he likened Labour s childcare plans to  a night out with Rev Flowers  
+
+Minúsculas: 
+ at this point the labour leader had two options  to remind the pm of some dodgy tory  and fragrant lib dem  donors  or to raise the threat to childcare in cameron country  chipping norton  currently white collar crime centre of the south east  he chose the latter  in fairness to cameron  he defended his childcare policies until the strain proved too much and he likened labour s childcare plans to  a night out with rev flowers  
+
+Palabras: 
+ ['at', 'this', 'point', 'the', 'labour', 'leader', 'had', 'two', 'options', 'to', 'remind', 'the', 'pm', 'of', 'some', 'dodgy', 'tory', 'and', 'fragrant', 'lib', 'dem', 'donors', 'or', 'to', 'raise', 'the', 'threat', 'to', 'childcare', 'in', 'cameron', 'country', 'chipping', 'norton', 'currently', 'white', 'collar', 'crime', 'centre', 'of', 'the', 'south', 'east', 'he', 'chose', 'the', 'latter', 'in', 'fairness', 'to', 'cameron', 'he', 'defended', 'his', 'childcare', 'policies', 'until', 'the', 'strain', 'proved', 'too', 'much', 'and', 'he', 'likened', 'labour', 's', 'childcare', 'plans', 'to', 'a', 'night', 'out', 'with', 'rev', 'flowers']
+
+Sin cerradas: 
+ ['point', 'labour', 'leader', 'two', 'options', 'remind', 'pm', 'dodgy', 'tory', 'fragrant', 'lib', 'dem', 'donors', 'raise', 'threat', 'childcare', 'cameron', 'country', 'chipping', 'norton', 'currently', 'white', 'collar', 'crime', 'centre', 'south', 'east', 'chose', 'latter', 'fairness', 'cameron', 'defended', 'childcare', 'policies', 'strain', 'proved', 'much', 'likened', 'labour', 'childcare', 'plans', 'night', 'rev', 'flowers']
+
+Truncadas: 
+ ['point', 'labour', 'leader', 'two', 'option', 'remind', 'pm', 'dodgi', 'tori', 'fragrant', 'lib', 'dem', 'donor', 'rais', 'threat', 'childcar', 'cameron', 'countri', 'chip', 'norton', 'current', 'white', 'collar', 'crime', 'centr', 'south', 'east', 'chose', 'latter', 'fair', 'cameron', 'defend', 'childcar', 'polici', 'strain', 'prove', 'much', 'liken', 'labour', 'childcar', 'plan', 'night', 'rev', 'flower']
+
+Texto final: 
+ point labour leader two option remind pm dodgi tori fragrant lib dem donor rais threat childcar cameron countri chip norton current white collar crime centr south east chose latter fair cameron defend childcar polici strain prove much liken labour childcar plan night rev flower

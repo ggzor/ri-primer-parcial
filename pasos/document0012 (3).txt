@@ -1,0 +1,24 @@
+originales/document0012 (3).txt
+Original: 
+ Why? Many things, including the Iraq legacy. But the surviving Blair/Brown lieutenants who stood against Corbyn in 2015 were not up to the task. They lacked either their own authority or his authenticity as Britain’s Bernie Sanders (whose brother, Larry, lives here by the way, and got 4.5% as a Green candidate on 7 May). 
+
+Sin signos de puntuación: 
+ Why  Many things  including the Iraq legacy  But the surviving Blair Brown lieutenants who stood against Corbyn in 2015 were not up to the task  They lacked either their own authority or his authenticity as Britain s Bernie Sanders  whose brother  Larry  lives here by the way  and got 4 5  as a Green candidate on 7 May   
+
+Sin números: 
+ Why  Many things  including the Iraq legacy  But the surviving Blair Brown lieutenants who stood against Corbyn in  were not up to the task  They lacked either their own authority or his authenticity as Britain s Bernie Sanders  whose brother  Larry  lives here by the way  and got    as a Green candidate on  May   
+
+Minúsculas: 
+ why  many things  including the iraq legacy  but the surviving blair brown lieutenants who stood against corbyn in  were not up to the task  they lacked either their own authority or his authenticity as britain s bernie sanders  whose brother  larry  lives here by the way  and got    as a green candidate on  may   
+
+Palabras: 
+ ['why', 'many', 'things', 'including', 'the', 'iraq', 'legacy', 'but', 'the', 'surviving', 'blair', 'brown', 'lieutenants', 'who', 'stood', 'against', 'corbyn', 'in', 'were', 'not', 'up', 'to', 'the', 'task', 'they', 'lacked', 'either', 'their', 'own', 'authority', 'or', 'his', 'authenticity', 'as', 'britain', 's', 'bernie', 'sanders', 'whose', 'brother', 'larry', 'lives', 'here', 'by', 'the', 'way', 'and', 'got', 'as', 'a', 'green', 'candidate', 'on', 'may']
+
+Sin cerradas: 
+ ['many', 'things', 'including', 'iraq', 'legacy', 'surviving', 'blair', 'brown', 'lieutenants', 'stood', 'corbyn', 'task', 'lacked', 'either', 'authority', 'authenticity', 'britain', 'bernie', 'sanders', 'whose', 'brother', 'larry', 'lives', 'way', 'got', 'green', 'candidate', 'may']
+
+Truncadas: 
+ ['mani', 'thing', 'includ', 'iraq', 'legaci', 'surviv', 'blair', 'brown', 'lieuten', 'stood', 'corbyn', 'task', 'lack', 'either', 'author', 'authent', 'britain', 'berni', 'sander', 'whose', 'brother', 'larri', 'live', 'way', 'got', 'green', 'candid', 'may']
+
+Texto final: 
+ mani thing includ iraq legaci surviv blair brown lieuten stood corbyn task lack either author authent britain berni sander whose brother larri live way got green candid may

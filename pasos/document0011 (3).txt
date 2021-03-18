@@ -1,0 +1,24 @@
+originales/document0011 (3).txt
+Original: 
+ But there was the occasional dissenting voice. “He’s friendly, he’s affable and the deal with people in the village tends to be that we let him get on with his private life,” said Tony Parkin, picking up bacon in the butchers. 
+
+Sin signos de puntuación: 
+ But there was the occasional dissenting voice   He s friendly  he s affable and the deal with people in the village tends to be that we let him get on with his private life   said Tony Parkin  picking up bacon in the butchers  
+
+Sin números: 
+ But there was the occasional dissenting voice   He s friendly  he s affable and the deal with people in the village tends to be that we let him get on with his private life   said Tony Parkin  picking up bacon in the butchers  
+
+Minúsculas: 
+ but there was the occasional dissenting voice   he s friendly  he s affable and the deal with people in the village tends to be that we let him get on with his private life   said tony parkin  picking up bacon in the butchers  
+
+Palabras: 
+ ['but', 'there', 'was', 'the', 'occasional', 'dissenting', 'voice', 'he', 's', 'friendly', 'he', 's', 'affable', 'and', 'the', 'deal', 'with', 'people', 'in', 'the', 'village', 'tends', 'to', 'be', 'that', 'we', 'let', 'him', 'get', 'on', 'with', 'his', 'private', 'life', 'said', 'tony', 'parkin', 'picking', 'up', 'bacon', 'in', 'the', 'butchers']
+
+Sin cerradas: 
+ ['occasional', 'dissenting', 'voice', 'friendly', 'affable', 'deal', 'people', 'village', 'tends', 'let', 'get', 'private', 'life', 'said', 'tony', 'parkin', 'picking', 'bacon', 'butchers']
+
+Truncadas: 
+ ['occasion', 'dissent', 'voic', 'friendli', 'affabl', 'deal', 'peopl', 'villag', 'tend', 'let', 'get', 'privat', 'life', 'said', 'toni', 'parkin', 'pick', 'bacon', 'butcher']
+
+Texto final: 
+ occasion dissent voic friendli affabl deal peopl villag tend let get privat life said toni parkin pick bacon butcher

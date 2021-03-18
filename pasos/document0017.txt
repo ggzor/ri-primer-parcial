@@ -1,0 +1,24 @@
+originales/document0017.txt
+Original: 
+ “Can we keep this brief?” enquired Vaz, now beginning to get a bit twitchy that the Gambaccini show was overrunning. 
+
+Sin signos de puntuación: 
+  Can we keep this brief   enquired Vaz  now beginning to get a bit twitchy that the Gambaccini show was overrunning  
+
+Sin números: 
+  Can we keep this brief   enquired Vaz  now beginning to get a bit twitchy that the Gambaccini show was overrunning  
+
+Minúsculas: 
+  can we keep this brief   enquired vaz  now beginning to get a bit twitchy that the gambaccini show was overrunning  
+
+Palabras: 
+ ['can', 'we', 'keep', 'this', 'brief', 'enquired', 'vaz', 'now', 'beginning', 'to', 'get', 'a', 'bit', 'twitchy', 'that', 'the', 'gambaccini', 'show', 'was', 'overrunning']
+
+Sin cerradas: 
+ ['keep', 'brief', 'enquired', 'vaz', 'beginning', 'get', 'bit', 'twitchy', 'gambaccini', 'show', 'overrunning']
+
+Truncadas: 
+ ['keep', 'brief', 'enquir', 'vaz', 'begin', 'get', 'bit', 'twitchi', 'gambaccini', 'show', 'overrun']
+
+Texto final: 
+ keep brief enquir vaz begin get bit twitchi gambaccini show overrun

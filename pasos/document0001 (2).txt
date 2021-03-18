@@ -1,0 +1,24 @@
+originales/document0001 (2).txt
+Original: 
+ Mainly, though, it was just so great to be there with his friend Boris, Cameron enthused, who was making a thrilling return to parliament to be on his team again. “I want to have the star players on the pitch,” explained the Guv’nor, as no one in the Tory dressing room calls him. 
+
+Sin signos de puntuación: 
+ Mainly  though  it was just so great to be there with his friend Boris  Cameron enthused  who was making a thrilling return to parliament to be on his team again   I want to have the star players on the pitch   explained the Guv nor  as no one in the Tory dressing room calls him  
+
+Sin números: 
+ Mainly  though  it was just so great to be there with his friend Boris  Cameron enthused  who was making a thrilling return to parliament to be on his team again   I want to have the star players on the pitch   explained the Guv nor  as no one in the Tory dressing room calls him  
+
+Minúsculas: 
+ mainly  though  it was just so great to be there with his friend boris  cameron enthused  who was making a thrilling return to parliament to be on his team again   i want to have the star players on the pitch   explained the guv nor  as no one in the tory dressing room calls him  
+
+Palabras: 
+ ['mainly', 'though', 'it', 'was', 'just', 'so', 'great', 'to', 'be', 'there', 'with', 'his', 'friend', 'boris', 'cameron', 'enthused', 'who', 'was', 'making', 'a', 'thrilling', 'return', 'to', 'parliament', 'to', 'be', 'on', 'his', 'team', 'again', 'i', 'want', 'to', 'have', 'the', 'star', 'players', 'on', 'the', 'pitch', 'explained', 'the', 'guv', 'nor', 'as', 'no', 'one', 'in', 'the', 'tory', 'dressing', 'room', 'calls', 'him']
+
+Sin cerradas: 
+ ['mainly', 'though', 'great', 'friend', 'boris', 'cameron', 'enthused', 'making', 'thrilling', 'return', 'parliament', 'team', 'want', 'star', 'players', 'pitch', 'explained', 'guv', 'one', 'tory', 'dressing', 'room', 'calls']
+
+Truncadas: 
+ ['mainli', 'though', 'great', 'friend', 'bori', 'cameron', 'enthus', 'make', 'thrill', 'return', 'parliament', 'team', 'want', 'star', 'player', 'pitch', 'explain', 'guv', 'one', 'tori', 'dress', 'room', 'call']
+
+Texto final: 
+ mainli though great friend bori cameron enthus make thrill return parliament team want star player pitch explain guv one tori dress room call

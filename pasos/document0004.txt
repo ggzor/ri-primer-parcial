@@ -1,0 +1,24 @@
+originales/document0004.txt
+Original: 
+ “When he’s about, he does tend to come in on a Saturday,” said fellow butcher James Brain (Slatter, perhaps overcome at his new-found celebrity, was having a day off). And Samantha? “Occasionally she comes in. It’s more him.” 
+
+Sin signos de puntuación: 
+  When he s about  he does tend to come in on a Saturday   said fellow butcher James Brain  Slatter  perhaps overcome at his new found celebrity  was having a day off   And Samantha   Occasionally she comes in  It s more him   
+
+Sin números: 
+  When he s about  he does tend to come in on a Saturday   said fellow butcher James Brain  Slatter  perhaps overcome at his new found celebrity  was having a day off   And Samantha   Occasionally she comes in  It s more him   
+
+Minúsculas: 
+  when he s about  he does tend to come in on a saturday   said fellow butcher james brain  slatter  perhaps overcome at his new found celebrity  was having a day off   and samantha   occasionally she comes in  it s more him   
+
+Palabras: 
+ ['when', 'he', 's', 'about', 'he', 'does', 'tend', 'to', 'come', 'in', 'on', 'a', 'saturday', 'said', 'fellow', 'butcher', 'james', 'brain', 'slatter', 'perhaps', 'overcome', 'at', 'his', 'new', 'found', 'celebrity', 'was', 'having', 'a', 'day', 'off', 'and', 'samantha', 'occasionally', 'she', 'comes', 'in', 'it', 's', 'more', 'him']
+
+Sin cerradas: 
+ ['tend', 'come', 'saturday', 'said', 'fellow', 'butcher', 'james', 'brain', 'slatter', 'perhaps', 'overcome', 'new', 'found', 'celebrity', 'day', 'samantha', 'occasionally', 'comes']
+
+Truncadas: 
+ ['tend', 'come', 'saturday', 'said', 'fellow', 'butcher', 'jame', 'brain', 'slatter', 'perhap', 'overcom', 'new', 'found', 'celebr', 'day', 'samantha', 'occasion', 'come']
+
+Texto final: 
+ tend come saturday said fellow butcher jame brain slatter perhap overcom new found celebr day samantha occasion come

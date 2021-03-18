@@ -1,0 +1,24 @@
+originales/document0013.txt
+Original: 
+ He was quickly shushed by his party's former leader Menzies Campbell, another guest. George Mitchell might have helped to bring to an end Northern Ireland's murderous four decades of Troubles, but even he knows when he is beaten. 
+
+Sin signos de puntuación: 
+ He was quickly shushed by his party s former leader Menzies Campbell  another guest  George Mitchell might have helped to bring to an end Northern Ireland s murderous four decades of Troubles  but even he knows when he is beaten  
+
+Sin números: 
+ He was quickly shushed by his party s former leader Menzies Campbell  another guest  George Mitchell might have helped to bring to an end Northern Ireland s murderous four decades of Troubles  but even he knows when he is beaten  
+
+Minúsculas: 
+ he was quickly shushed by his party s former leader menzies campbell  another guest  george mitchell might have helped to bring to an end northern ireland s murderous four decades of troubles  but even he knows when he is beaten  
+
+Palabras: 
+ ['he', 'was', 'quickly', 'shushed', 'by', 'his', 'party', 's', 'former', 'leader', 'menzies', 'campbell', 'another', 'guest', 'george', 'mitchell', 'might', 'have', 'helped', 'to', 'bring', 'to', 'an', 'end', 'northern', 'ireland', 's', 'murderous', 'four', 'decades', 'of', 'troubles', 'but', 'even', 'he', 'knows', 'when', 'he', 'is', 'beaten']
+
+Sin cerradas: 
+ ['quickly', 'shushed', 'party', 'former', 'leader', 'menzies', 'campbell', 'another', 'guest', 'george', 'mitchell', 'might', 'helped', 'bring', 'end', 'northern', 'ireland', 'murderous', 'four', 'decades', 'troubles', 'even', 'knows', 'beaten']
+
+Truncadas: 
+ ['quickli', 'shush', 'parti', 'former', 'leader', 'menzi', 'campbel', 'anoth', 'guest', 'georg', 'mitchel', 'might', 'help', 'bring', 'end', 'northern', 'ireland', 'murder', 'four', 'decad', 'troubl', 'even', 'know', 'beaten']
+
+Texto final: 
+ quickli shush parti former leader menzi campbel anoth guest georg mitchel might help bring end northern ireland murder four decad troubl even know beaten

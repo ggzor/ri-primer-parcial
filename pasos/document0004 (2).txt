@@ -1,0 +1,24 @@
+originales/document0004 (2).txt
+Original: 
+ The changes in the culture of influence in government have to last way beyond the moment of a ministerial resignation. David Cameron talks about transparency but people have seen through the half-truths. 
+
+Sin signos de puntuación: 
+ The changes in the culture of influence in government have to last way beyond the moment of a ministerial resignation  David Cameron talks about transparency but people have seen through the half truths  
+
+Sin números: 
+ The changes in the culture of influence in government have to last way beyond the moment of a ministerial resignation  David Cameron talks about transparency but people have seen through the half truths  
+
+Minúsculas: 
+ the changes in the culture of influence in government have to last way beyond the moment of a ministerial resignation  david cameron talks about transparency but people have seen through the half truths  
+
+Palabras: 
+ ['the', 'changes', 'in', 'the', 'culture', 'of', 'influence', 'in', 'government', 'have', 'to', 'last', 'way', 'beyond', 'the', 'moment', 'of', 'a', 'ministerial', 'resignation', 'david', 'cameron', 'talks', 'about', 'transparency', 'but', 'people', 'have', 'seen', 'through', 'the', 'half', 'truths']
+
+Sin cerradas: 
+ ['changes', 'culture', 'influence', 'government', 'last', 'way', 'beyond', 'moment', 'ministerial', 'resignation', 'david', 'cameron', 'talks', 'transparency', 'people', 'seen', 'half', 'truths']
+
+Truncadas: 
+ ['chang', 'cultur', 'influenc', 'govern', 'last', 'way', 'beyond', 'moment', 'ministeri', 'resign', 'david', 'cameron', 'talk', 'transpar', 'peopl', 'seen', 'half', 'truth']
+
+Texto final: 
+ chang cultur influenc govern last way beyond moment ministeri resign david cameron talk transpar peopl seen half truth

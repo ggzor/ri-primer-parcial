@@ -1,0 +1,24 @@
+originales/document0016 (2).txt
+Original: 
+ What a relief it was to see on the road to Ramsgate a fence draped with cheap tinsel and placards for Nigel Farage. Finally, here was evidence of an election. 
+
+Sin signos de puntuación: 
+ What a relief it was to see on the road to Ramsgate a fence draped with cheap tinsel and placards for Nigel Farage  Finally  here was evidence of an election  
+
+Sin números: 
+ What a relief it was to see on the road to Ramsgate a fence draped with cheap tinsel and placards for Nigel Farage  Finally  here was evidence of an election  
+
+Minúsculas: 
+ what a relief it was to see on the road to ramsgate a fence draped with cheap tinsel and placards for nigel farage  finally  here was evidence of an election  
+
+Palabras: 
+ ['what', 'a', 'relief', 'it', 'was', 'to', 'see', 'on', 'the', 'road', 'to', 'ramsgate', 'a', 'fence', 'draped', 'with', 'cheap', 'tinsel', 'and', 'placards', 'for', 'nigel', 'farage', 'finally', 'here', 'was', 'evidence', 'of', 'an', 'election']
+
+Sin cerradas: 
+ ['relief', 'see', 'road', 'ramsgate', 'fence', 'draped', 'cheap', 'tinsel', 'placards', 'nigel', 'farage', 'finally', 'evidence', 'election']
+
+Truncadas: 
+ ['relief', 'see', 'road', 'ramsgat', 'fenc', 'drape', 'cheap', 'tinsel', 'placard', 'nigel', 'farag', 'final', 'evid', 'elect']
+
+Texto final: 
+ relief see road ramsgat fenc drape cheap tinsel placard nigel farag final evid elect

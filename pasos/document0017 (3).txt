@@ -1,0 +1,24 @@
+originales/document0017 (3).txt
+Original: 
+ Much was made of his precocious talent when first elected a Social Democratic party MP at just 23 (“He was a tonic to the group”, ex-MP Ian Wrigglesworth told delegates) and of his opposition to the Iraq war 20 years later. Once he made up his mind, Kennedy was steadfast, but before doing so he privately dithered about that fateful decision. 
+
+Sin signos de puntuación: 
+ Much was made of his precocious talent when first elected a Social Democratic party MP at just 23   He was a tonic to the group   ex MP Ian Wrigglesworth told delegates  and of his opposition to the Iraq war 20 years later  Once he made up his mind  Kennedy was steadfast  but before doing so he privately dithered about that fateful decision  
+
+Sin números: 
+ Much was made of his precocious talent when first elected a Social Democratic party MP at just    He was a tonic to the group   ex MP Ian Wrigglesworth told delegates  and of his opposition to the Iraq war  years later  Once he made up his mind  Kennedy was steadfast  but before doing so he privately dithered about that fateful decision  
+
+Minúsculas: 
+ much was made of his precocious talent when first elected a social democratic party mp at just    he was a tonic to the group   ex mp ian wrigglesworth told delegates  and of his opposition to the iraq war  years later  once he made up his mind  kennedy was steadfast  but before doing so he privately dithered about that fateful decision  
+
+Palabras: 
+ ['much', 'was', 'made', 'of', 'his', 'precocious', 'talent', 'when', 'first', 'elected', 'a', 'social', 'democratic', 'party', 'mp', 'at', 'just', 'he', 'was', 'a', 'tonic', 'to', 'the', 'group', 'ex', 'mp', 'ian', 'wrigglesworth', 'told', 'delegates', 'and', 'of', 'his', 'opposition', 'to', 'the', 'iraq', 'war', 'years', 'later', 'once', 'he', 'made', 'up', 'his', 'mind', 'kennedy', 'was', 'steadfast', 'but', 'before', 'doing', 'so', 'he', 'privately', 'dithered', 'about', 'that', 'fateful', 'decision']
+
+Sin cerradas: 
+ ['much', 'made', 'precocious', 'talent', 'first', 'elected', 'social', 'democratic', 'party', 'mp', 'tonic', 'group', 'ex', 'mp', 'ian', 'wrigglesworth', 'told', 'delegates', 'opposition', 'iraq', 'war', 'years', 'later', 'made', 'mind', 'kennedy', 'steadfast', 'privately', 'dithered', 'fateful', 'decision']
+
+Truncadas: 
+ ['much', 'made', 'precoci', 'talent', 'first', 'elect', 'social', 'democrat', 'parti', 'mp', 'tonic', 'group', 'ex', 'mp', 'ian', 'wrigglesworth', 'told', 'deleg', 'opposit', 'iraq', 'war', 'year', 'later', 'made', 'mind', 'kennedi', 'steadfast', 'privat', 'dither', 'fate', 'decis']
+
+Texto final: 
+ much made precoci talent first elect social democrat parti mp tonic group ex mp ian wrigglesworth told deleg opposit iraq war year later made mind kennedi steadfast privat dither fate decis

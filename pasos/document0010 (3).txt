@@ -1,0 +1,24 @@
+originales/document0010 (3).txt
+Original: 
+ The genial literature buff John Hayes, the lifelong learning minister, is tipped for the chop by that shadowy Westminster figure, the Great Mentioner, who peddles gossip in reporters' ears at reshuffle time. If so Hayes's last words to Hansard will have been to quote Marcel Proust to the effect that "we must not receive [wisdom], we must discover after a journey". It is the minister's flowery way of promoting apprenticeships; not so much Swann's Way as Swan Hunters. 
+
+Sin signos de puntuación: 
+ The genial literature buff John Hayes  the lifelong learning minister  is tipped for the chop by that shadowy Westminster figure  the Great Mentioner  who peddles gossip in reporters  ears at reshuffle time  If so Hayes s last words to Hansard will have been to quote Marcel Proust to the effect that  we must not receive  wisdom   we must discover after a journey   It is the minister s flowery way of promoting apprenticeships  not so much Swann s Way as Swan Hunters  
+
+Sin números: 
+ The genial literature buff John Hayes  the lifelong learning minister  is tipped for the chop by that shadowy Westminster figure  the Great Mentioner  who peddles gossip in reporters  ears at reshuffle time  If so Hayes s last words to Hansard will have been to quote Marcel Proust to the effect that  we must not receive  wisdom   we must discover after a journey   It is the minister s flowery way of promoting apprenticeships  not so much Swann s Way as Swan Hunters  
+
+Minúsculas: 
+ the genial literature buff john hayes  the lifelong learning minister  is tipped for the chop by that shadowy westminster figure  the great mentioner  who peddles gossip in reporters  ears at reshuffle time  if so hayes s last words to hansard will have been to quote marcel proust to the effect that  we must not receive  wisdom   we must discover after a journey   it is the minister s flowery way of promoting apprenticeships  not so much swann s way as swan hunters  
+
+Palabras: 
+ ['the', 'genial', 'literature', 'buff', 'john', 'hayes', 'the', 'lifelong', 'learning', 'minister', 'is', 'tipped', 'for', 'the', 'chop', 'by', 'that', 'shadowy', 'westminster', 'figure', 'the', 'great', 'mentioner', 'who', 'peddles', 'gossip', 'in', 'reporters', 'ears', 'at', 'reshuffle', 'time', 'if', 'so', 'hayes', 's', 'last', 'words', 'to', 'hansard', 'will', 'have', 'been', 'to', 'quote', 'marcel', 'proust', 'to', 'the', 'effect', 'that', 'we', 'must', 'not', 'receive', 'wisdom', 'we', 'must', 'discover', 'after', 'a', 'journey', 'it', 'is', 'the', 'minister', 's', 'flowery', 'way', 'of', 'promoting', 'apprenticeships', 'not', 'so', 'much', 'swann', 's', 'way', 'as', 'swan', 'hunters']
+
+Sin cerradas: 
+ ['genial', 'literature', 'buff', 'john', 'hayes', 'lifelong', 'learning', 'minister', 'tipped', 'chop', 'shadowy', 'westminster', 'figure', 'great', 'mentioner', 'peddles', 'gossip', 'reporters', 'ears', 'reshuffle', 'time', 'hayes', 'last', 'words', 'hansard', 'quote', 'marcel', 'proust', 'effect', 'must', 'receive', 'wisdom', 'must', 'discover', 'journey', 'minister', 'flowery', 'way', 'promoting', 'apprenticeships', 'much', 'swann', 'way', 'swan', 'hunters']
+
+Truncadas: 
+ ['genial', 'literatur', 'buff', 'john', 'hay', 'lifelong', 'learn', 'minist', 'tip', 'chop', 'shadowi', 'westminst', 'figur', 'great', 'mention', 'peddl', 'gossip', 'report', 'ear', 'reshuffl', 'time', 'hay', 'last', 'word', 'hansard', 'quot', 'marcel', 'proust', 'effect', 'must', 'receiv', 'wisdom', 'must', 'discov', 'journey', 'minist', 'floweri', 'way', 'promot', 'apprenticeship', 'much', 'swann', 'way', 'swan', 'hunter']
+
+Texto final: 
+ genial literatur buff john hay lifelong learn minist tip chop shadowi westminst figur great mention peddl gossip report ear reshuffl time hay last word hansard quot marcel proust effect must receiv wisdom must discov journey minist floweri way promot apprenticeship much swann way swan hunter

@@ -1,0 +1,24 @@
+originales/document0001.txt
+Original: 
+ Here were the simple facts of his case, he said, placing his cap and scarf on the table in front of him and peering towards Vaz and the other committee members. Either he has a squint or he had forgotten his specs. 
+
+Sin signos de puntuación: 
+ Here were the simple facts of his case  he said  placing his cap and scarf on the table in front of him and peering towards Vaz and the other committee members  Either he has a squint or he had forgotten his specs  
+
+Sin números: 
+ Here were the simple facts of his case  he said  placing his cap and scarf on the table in front of him and peering towards Vaz and the other committee members  Either he has a squint or he had forgotten his specs  
+
+Minúsculas: 
+ here were the simple facts of his case  he said  placing his cap and scarf on the table in front of him and peering towards vaz and the other committee members  either he has a squint or he had forgotten his specs  
+
+Palabras: 
+ ['here', 'were', 'the', 'simple', 'facts', 'of', 'his', 'case', 'he', 'said', 'placing', 'his', 'cap', 'and', 'scarf', 'on', 'the', 'table', 'in', 'front', 'of', 'him', 'and', 'peering', 'towards', 'vaz', 'and', 'the', 'other', 'committee', 'members', 'either', 'he', 'has', 'a', 'squint', 'or', 'he', 'had', 'forgotten', 'his', 'specs']
+
+Sin cerradas: 
+ ['simple', 'facts', 'case', 'said', 'placing', 'cap', 'scarf', 'table', 'front', 'peering', 'towards', 'vaz', 'committee', 'members', 'either', 'squint', 'forgotten', 'specs']
+
+Truncadas: 
+ ['simpl', 'fact', 'case', 'said', 'place', 'cap', 'scarf', 'tabl', 'front', 'peer', 'toward', 'vaz', 'committe', 'member', 'either', 'squint', 'forgotten', 'spec']
+
+Texto final: 
+ simpl fact case said place cap scarf tabl front peer toward vaz committe member either squint forgotten spec

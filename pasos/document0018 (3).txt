@@ -1,0 +1,24 @@
+originales/document0018 (3).txt
+Original: 
+ By Tuesday, even Nick Clegg had caught up with Tory HQ's Labour-baiting script and was abusing Unite's Len McCluskey. But who needs a respectable trade union apparatchik when they can have the Co-op's Crystal Methodist banker, Paul Flowers, to wrap round Ed Miliband's neck? 
+
+Sin signos de puntuación: 
+ By Tuesday  even Nick Clegg had caught up with Tory HQ s Labour baiting script and was abusing Unite s Len McCluskey  But who needs a respectable trade union apparatchik when they can have the Co op s Crystal Methodist banker  Paul Flowers  to wrap round Ed Miliband s neck  
+
+Sin números: 
+ By Tuesday  even Nick Clegg had caught up with Tory HQ s Labour baiting script and was abusing Unite s Len McCluskey  But who needs a respectable trade union apparatchik when they can have the Co op s Crystal Methodist banker  Paul Flowers  to wrap round Ed Miliband s neck  
+
+Minúsculas: 
+ by tuesday  even nick clegg had caught up with tory hq s labour baiting script and was abusing unite s len mccluskey  but who needs a respectable trade union apparatchik when they can have the co op s crystal methodist banker  paul flowers  to wrap round ed miliband s neck  
+
+Palabras: 
+ ['by', 'tuesday', 'even', 'nick', 'clegg', 'had', 'caught', 'up', 'with', 'tory', 'hq', 's', 'labour', 'baiting', 'script', 'and', 'was', 'abusing', 'unite', 's', 'len', 'mccluskey', 'but', 'who', 'needs', 'a', 'respectable', 'trade', 'union', 'apparatchik', 'when', 'they', 'can', 'have', 'the', 'co', 'op', 's', 'crystal', 'methodist', 'banker', 'paul', 'flowers', 'to', 'wrap', 'round', 'ed', 'miliband', 's', 'neck']
+
+Sin cerradas: 
+ ['tuesday', 'even', 'nick', 'clegg', 'caught', 'tory', 'hq', 'labour', 'baiting', 'script', 'abusing', 'unite', 'len', 'mccluskey', 'needs', 'respectable', 'trade', 'union', 'apparatchik', 'co', 'op', 'crystal', 'methodist', 'banker', 'paul', 'flowers', 'wrap', 'round', 'ed', 'miliband', 'neck']
+
+Truncadas: 
+ ['tuesday', 'even', 'nick', 'clegg', 'caught', 'tori', 'hq', 'labour', 'bait', 'script', 'abus', 'unit', 'len', 'mccluskey', 'need', 'respect', 'trade', 'union', 'apparatchik', 'co', 'op', 'crystal', 'methodist', 'banker', 'paul', 'flower', 'wrap', 'round', 'ed', 'miliband', 'neck']
+
+Texto final: 
+ tuesday even nick clegg caught tori hq labour bait script abus unit len mccluskey need respect trade union apparatchik co op crystal methodist banker paul flower wrap round ed miliband neck

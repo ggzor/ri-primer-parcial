@@ -1,0 +1,24 @@
+originales/document0002 (3).txt
+Original: 
+ Blair, who puzzled Callaghan, did consult him a bit in old age but did not take much notice, I suspect. It would have been foolish and wrong to sack Brown whose reputation as chancellor stood high before the flighty bankers let down him and everyone else. But he should have protected colleagues better from Brown’s enmity and Damian McBride’s subversion. 
+
+Sin signos de puntuación: 
+ Blair  who puzzled Callaghan  did consult him a bit in old age but did not take much notice  I suspect  It would have been foolish and wrong to sack Brown whose reputation as chancellor stood high before the flighty bankers let down him and everyone else  But he should have protected colleagues better from Brown s enmity and Damian McBride s subversion  
+
+Sin números: 
+ Blair  who puzzled Callaghan  did consult him a bit in old age but did not take much notice  I suspect  It would have been foolish and wrong to sack Brown whose reputation as chancellor stood high before the flighty bankers let down him and everyone else  But he should have protected colleagues better from Brown s enmity and Damian McBride s subversion  
+
+Minúsculas: 
+ blair  who puzzled callaghan  did consult him a bit in old age but did not take much notice  i suspect  it would have been foolish and wrong to sack brown whose reputation as chancellor stood high before the flighty bankers let down him and everyone else  but he should have protected colleagues better from brown s enmity and damian mcbride s subversion  
+
+Palabras: 
+ ['blair', 'who', 'puzzled', 'callaghan', 'did', 'consult', 'him', 'a', 'bit', 'in', 'old', 'age', 'but', 'did', 'not', 'take', 'much', 'notice', 'i', 'suspect', 'it', 'would', 'have', 'been', 'foolish', 'and', 'wrong', 'to', 'sack', 'brown', 'whose', 'reputation', 'as', 'chancellor', 'stood', 'high', 'before', 'the', 'flighty', 'bankers', 'let', 'down', 'him', 'and', 'everyone', 'else', 'but', 'he', 'should', 'have', 'protected', 'colleagues', 'better', 'from', 'brown', 's', 'enmity', 'and', 'damian', 'mcbride', 's', 'subversion']
+
+Sin cerradas: 
+ ['blair', 'puzzled', 'callaghan', 'consult', 'bit', 'old', 'age', 'take', 'much', 'notice', 'suspect', 'would', 'foolish', 'wrong', 'sack', 'brown', 'whose', 'reputation', 'chancellor', 'stood', 'high', 'flighty', 'bankers', 'let', 'everyone', 'else', 'protected', 'colleagues', 'better', 'brown', 'enmity', 'damian', 'mcbride', 'subversion']
+
+Truncadas: 
+ ['blair', 'puzzl', 'callaghan', 'consult', 'bit', 'old', 'age', 'take', 'much', 'notic', 'suspect', 'would', 'foolish', 'wrong', 'sack', 'brown', 'whose', 'reput', 'chancellor', 'stood', 'high', 'flighti', 'banker', 'let', 'everyon', 'els', 'protect', 'colleagu', 'better', 'brown', 'enmiti', 'damian', 'mcbride', 'subvers']
+
+Texto final: 
+ blair puzzl callaghan consult bit old age take much notic suspect would foolish wrong sack brown whose reput chancellor stood high flighti banker let everyon els protect colleagu better brown enmiti damian mcbride subvers

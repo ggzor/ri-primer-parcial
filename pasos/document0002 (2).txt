@@ -1,0 +1,24 @@
+originales/document0002 (2).txt
+Original: 
+ But to this visitor’s eye, these mute demonstrators seem to catch the mood of the 2015 campaign. I’m not talking about Scotland. Pride and enthusiasm are on the march up there. But politics isn’t swamping newspapers and television down south. It’s so quiet, so tidy. Much of the time, an election seems hardly to be happening at all. 
+
+Sin signos de puntuación: 
+ But to this visitor s eye  these mute demonstrators seem to catch the mood of the 2015 campaign  I m not talking about Scotland  Pride and enthusiasm are on the march up there  But politics isn t swamping newspapers and television down south  It s so quiet  so tidy  Much of the time  an election seems hardly to be happening at all  
+
+Sin números: 
+ But to this visitor s eye  these mute demonstrators seem to catch the mood of the  campaign  I m not talking about Scotland  Pride and enthusiasm are on the march up there  But politics isn t swamping newspapers and television down south  It s so quiet  so tidy  Much of the time  an election seems hardly to be happening at all  
+
+Minúsculas: 
+ but to this visitor s eye  these mute demonstrators seem to catch the mood of the  campaign  i m not talking about scotland  pride and enthusiasm are on the march up there  but politics isn t swamping newspapers and television down south  it s so quiet  so tidy  much of the time  an election seems hardly to be happening at all  
+
+Palabras: 
+ ['but', 'to', 'this', 'visitor', 's', 'eye', 'these', 'mute', 'demonstrators', 'seem', 'to', 'catch', 'the', 'mood', 'of', 'the', 'campaign', 'i', 'm', 'not', 'talking', 'about', 'scotland', 'pride', 'and', 'enthusiasm', 'are', 'on', 'the', 'march', 'up', 'there', 'but', 'politics', 'isn', 't', 'swamping', 'newspapers', 'and', 'television', 'down', 'south', 'it', 's', 'so', 'quiet', 'so', 'tidy', 'much', 'of', 'the', 'time', 'an', 'election', 'seems', 'hardly', 'to', 'be', 'happening', 'at', 'all']
+
+Sin cerradas: 
+ ['visitor', 'eye', 'mute', 'demonstrators', 'seem', 'catch', 'mood', 'campaign', 'talking', 'scotland', 'pride', 'enthusiasm', 'march', 'politics', 'swamping', 'newspapers', 'television', 'south', 'quiet', 'tidy', 'much', 'time', 'election', 'seems', 'hardly', 'happening']
+
+Truncadas: 
+ ['visitor', 'eye', 'mute', 'demonstr', 'seem', 'catch', 'mood', 'campaign', 'talk', 'scotland', 'pride', 'enthusiasm', 'march', 'polit', 'swamp', 'newspap', 'televis', 'south', 'quiet', 'tidi', 'much', 'time', 'elect', 'seem', 'hardli', 'happen']
+
+Texto final: 
+ visitor eye mute demonstr seem catch mood campaign talk scotland pride enthusiasm march polit swamp newspap televis south quiet tidi much time elect seem hardli happen

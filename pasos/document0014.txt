@@ -1,0 +1,24 @@
+originales/document0014.txt
+Original: 
+ But the more fastidious are also sensitive about their reputations – and the risk that others with shadier professional pasts, alleged or real, may damage their fundraising. 
+
+Sin signos de puntuación: 
+ But the more fastidious are also sensitive about their reputations – and the risk that others with shadier professional pasts  alleged or real  may damage their fundraising  
+
+Sin números: 
+ But the more fastidious are also sensitive about their reputations – and the risk that others with shadier professional pasts  alleged or real  may damage their fundraising  
+
+Minúsculas: 
+ but the more fastidious are also sensitive about their reputations – and the risk that others with shadier professional pasts  alleged or real  may damage their fundraising  
+
+Palabras: 
+ ['but', 'the', 'more', 'fastidious', 'are', 'also', 'sensitive', 'about', 'their', 'reputations', 'and', 'the', 'risk', 'that', 'others', 'with', 'shadier', 'professional', 'pasts', 'alleged', 'or', 'real', 'may', 'damage', 'their', 'fundraising']
+
+Sin cerradas: 
+ ['fastidious', 'also', 'sensitive', 'reputations', 'risk', 'others', 'shadier', 'professional', 'pasts', 'alleged', 'real', 'may', 'damage', 'fundraising']
+
+Truncadas: 
+ ['fastidi', 'also', 'sensit', 'reput', 'risk', 'other', 'shadier', 'profession', 'past', 'alleg', 'real', 'may', 'damag', 'fundrais']
+
+Texto final: 
+ fastidi also sensit reput risk other shadier profession past alleg real may damag fundrais

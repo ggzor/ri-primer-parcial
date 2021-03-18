@@ -1,0 +1,24 @@
+originales/document0006.txt
+Original: 
+ Clegg, too, had pleaded for an apology (though we can assume the chances of any Rennard act of contrition being released as a charity single, like Clegg's 2012 mea culpa over tuition fees, are slim). Why didn't he just suspend him, asked Webb. That was where the Lib Dems' enviably straightforward party management structure came in. "There is not a button that I can push," said Clegg, earnestly wishing there was. 
+
+Sin signos de puntuación: 
+ Clegg  too  had pleaded for an apology  though we can assume the chances of any Rennard act of contrition being released as a charity single  like Clegg s 2012 mea culpa over tuition fees  are slim   Why didn t he just suspend him  asked Webb  That was where the Lib Dems  enviably straightforward party management structure came in   There is not a button that I can push   said Clegg  earnestly wishing there was  
+
+Sin números: 
+ Clegg  too  had pleaded for an apology  though we can assume the chances of any Rennard act of contrition being released as a charity single  like Clegg s  mea culpa over tuition fees  are slim   Why didn t he just suspend him  asked Webb  That was where the Lib Dems  enviably straightforward party management structure came in   There is not a button that I can push   said Clegg  earnestly wishing there was  
+
+Minúsculas: 
+ clegg  too  had pleaded for an apology  though we can assume the chances of any rennard act of contrition being released as a charity single  like clegg s  mea culpa over tuition fees  are slim   why didn t he just suspend him  asked webb  that was where the lib dems  enviably straightforward party management structure came in   there is not a button that i can push   said clegg  earnestly wishing there was  
+
+Palabras: 
+ ['clegg', 'too', 'had', 'pleaded', 'for', 'an', 'apology', 'though', 'we', 'can', 'assume', 'the', 'chances', 'of', 'any', 'rennard', 'act', 'of', 'contrition', 'being', 'released', 'as', 'a', 'charity', 'single', 'like', 'clegg', 's', 'mea', 'culpa', 'over', 'tuition', 'fees', 'are', 'slim', 'why', 'didn', 't', 'he', 'just', 'suspend', 'him', 'asked', 'webb', 'that', 'was', 'where', 'the', 'lib', 'dems', 'enviably', 'straightforward', 'party', 'management', 'structure', 'came', 'in', 'there', 'is', 'not', 'a', 'button', 'that', 'i', 'can', 'push', 'said', 'clegg', 'earnestly', 'wishing', 'there', 'was']
+
+Sin cerradas: 
+ ['clegg', 'pleaded', 'apology', 'though', 'assume', 'chances', 'rennard', 'act', 'contrition', 'released', 'charity', 'single', 'like', 'clegg', 'mea', 'culpa', 'tuition', 'fees', 'slim', 'suspend', 'asked', 'webb', 'lib', 'dems', 'enviably', 'straightforward', 'party', 'management', 'structure', 'came', 'button', 'push', 'said', 'clegg', 'earnestly', 'wishing']
+
+Truncadas: 
+ ['clegg', 'plead', 'apolog', 'though', 'assum', 'chanc', 'rennard', 'act', 'contrit', 'releas', 'chariti', 'singl', 'like', 'clegg', 'mea', 'culpa', 'tuition', 'fee', 'slim', 'suspend', 'ask', 'webb', 'lib', 'dem', 'enviabl', 'straightforward', 'parti', 'manag', 'structur', 'came', 'button', 'push', 'said', 'clegg', 'earnestli', 'wish']
+
+Texto final: 
+ clegg plead apolog though assum chanc rennard act contrit releas chariti singl like clegg mea culpa tuition fee slim suspend ask webb lib dem enviabl straightforward parti manag structur came button push said clegg earnestli wish

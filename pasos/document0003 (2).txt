@@ -1,0 +1,24 @@
+originales/document0003 (2).txt
+Original: 
+ It went on like that for hours: the obsessives trading rumour, hunches and gut feelings. Others chose to put aside speculation in favour of conspiracy. 
+
+Sin signos de puntuación: 
+ It went on like that for hours  the obsessives trading rumour  hunches and gut feelings  Others chose to put aside speculation in favour of conspiracy  
+
+Sin números: 
+ It went on like that for hours  the obsessives trading rumour  hunches and gut feelings  Others chose to put aside speculation in favour of conspiracy  
+
+Minúsculas: 
+ it went on like that for hours  the obsessives trading rumour  hunches and gut feelings  others chose to put aside speculation in favour of conspiracy  
+
+Palabras: 
+ ['it', 'went', 'on', 'like', 'that', 'for', 'hours', 'the', 'obsessives', 'trading', 'rumour', 'hunches', 'and', 'gut', 'feelings', 'others', 'chose', 'to', 'put', 'aside', 'speculation', 'in', 'favour', 'of', 'conspiracy']
+
+Sin cerradas: 
+ ['went', 'like', 'hours', 'obsessives', 'trading', 'rumour', 'hunches', 'gut', 'feelings', 'others', 'chose', 'put', 'aside', 'speculation', 'favour', 'conspiracy']
+
+Truncadas: 
+ ['went', 'like', 'hour', 'obsess', 'trade', 'rumour', 'hunch', 'gut', 'feel', 'other', 'chose', 'put', 'asid', 'specul', 'favour', 'conspiraci']
+
+Texto final: 
+ went like hour obsess trade rumour hunch gut feel other chose put asid specul favour conspiraci

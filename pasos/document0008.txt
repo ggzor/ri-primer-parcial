@@ -1,0 +1,24 @@
+originales/document0008.txt
+Original: 
+ Voters who did not cast their votes for Brown last Thursday may be glad for the outgoing prime minister, who has always looked like a solitary man in need of comfort. Never more than now. Forced out by Nick Clegg's deal with David Cameron he went straight to the palace, kids in tow, to offer up the seals of office – and resigned as Labour leader too – "immediately". 
+
+Sin signos de puntuación: 
+ Voters who did not cast their votes for Brown last Thursday may be glad for the outgoing prime minister  who has always looked like a solitary man in need of comfort  Never more than now  Forced out by Nick Clegg s deal with David Cameron he went straight to the palace  kids in tow  to offer up the seals of office – and resigned as Labour leader too –  immediately   
+
+Sin números: 
+ Voters who did not cast their votes for Brown last Thursday may be glad for the outgoing prime minister  who has always looked like a solitary man in need of comfort  Never more than now  Forced out by Nick Clegg s deal with David Cameron he went straight to the palace  kids in tow  to offer up the seals of office – and resigned as Labour leader too –  immediately   
+
+Minúsculas: 
+ voters who did not cast their votes for brown last thursday may be glad for the outgoing prime minister  who has always looked like a solitary man in need of comfort  never more than now  forced out by nick clegg s deal with david cameron he went straight to the palace  kids in tow  to offer up the seals of office – and resigned as labour leader too –  immediately   
+
+Palabras: 
+ ['voters', 'who', 'did', 'not', 'cast', 'their', 'votes', 'for', 'brown', 'last', 'thursday', 'may', 'be', 'glad', 'for', 'the', 'outgoing', 'prime', 'minister', 'who', 'has', 'always', 'looked', 'like', 'a', 'solitary', 'man', 'in', 'need', 'of', 'comfort', 'never', 'more', 'than', 'now', 'forced', 'out', 'by', 'nick', 'clegg', 's', 'deal', 'with', 'david', 'cameron', 'he', 'went', 'straight', 'to', 'the', 'palace', 'kids', 'in', 'tow', 'to', 'offer', 'up', 'the', 'seals', 'of', 'office', 'and', 'resigned', 'as', 'labour', 'leader', 'too', 'immediately']
+
+Sin cerradas: 
+ ['voters', 'cast', 'votes', 'brown', 'last', 'thursday', 'may', 'glad', 'outgoing', 'prime', 'minister', 'always', 'looked', 'like', 'solitary', 'man', 'need', 'comfort', 'never', 'forced', 'nick', 'clegg', 'deal', 'david', 'cameron', 'went', 'straight', 'palace', 'kids', 'tow', 'offer', 'seals', 'office', 'resigned', 'labour', 'leader', 'immediately']
+
+Truncadas: 
+ ['voter', 'cast', 'vote', 'brown', 'last', 'thursday', 'may', 'glad', 'outgo', 'prime', 'minist', 'alway', 'look', 'like', 'solitari', 'man', 'need', 'comfort', 'never', 'forc', 'nick', 'clegg', 'deal', 'david', 'cameron', 'went', 'straight', 'palac', 'kid', 'tow', 'offer', 'seal', 'offic', 'resign', 'labour', 'leader', 'immedi']
+
+Texto final: 
+ voter cast vote brown last thursday may glad outgo prime minist alway look like solitari man need comfort never forc nick clegg deal david cameron went straight palac kid tow offer seal offic resign labour leader immedi

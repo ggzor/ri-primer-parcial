@@ -1,0 +1,24 @@
+originales/document0003 (3).txt
+Original: 
+ Ouch! This drama has a long way to go. And Manchester United, fifth in the premiership, is still better placed to claw its way back than Labour. Sacked managers don’t stay on the touchline. 
+
+Sin signos de puntuación: 
+ Ouch  This drama has a long way to go  And Manchester United  fifth in the premiership  is still better placed to claw its way back than Labour  Sacked managers don t stay on the touchline  
+
+Sin números: 
+ Ouch  This drama has a long way to go  And Manchester United  fifth in the premiership  is still better placed to claw its way back than Labour  Sacked managers don t stay on the touchline  
+
+Minúsculas: 
+ ouch  this drama has a long way to go  and manchester united  fifth in the premiership  is still better placed to claw its way back than labour  sacked managers don t stay on the touchline  
+
+Palabras: 
+ ['ouch', 'this', 'drama', 'has', 'a', 'long', 'way', 'to', 'go', 'and', 'manchester', 'united', 'fifth', 'in', 'the', 'premiership', 'is', 'still', 'better', 'placed', 'to', 'claw', 'its', 'way', 'back', 'than', 'labour', 'sacked', 'managers', 'don', 't', 'stay', 'on', 'the', 'touchline']
+
+Sin cerradas: 
+ ['ouch', 'drama', 'long', 'way', 'go', 'manchester', 'united', 'fifth', 'premiership', 'still', 'better', 'placed', 'claw', 'way', 'back', 'labour', 'sacked', 'managers', 'stay', 'touchline']
+
+Truncadas: 
+ ['ouch', 'drama', 'long', 'way', 'go', 'manchest', 'unit', 'fifth', 'premiership', 'still', 'better', 'place', 'claw', 'way', 'back', 'labour', 'sack', 'manag', 'stay', 'touchlin']
+
+Texto final: 
+ ouch drama long way go manchest unit fifth premiership still better place claw way back labour sack manag stay touchlin

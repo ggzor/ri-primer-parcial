@@ -1,0 +1,24 @@
+originales/document0015 (3).txt
+Original: 
+ Sir Menzies “Ming” Campbell, Kennedy’s successor who is soon to be Lord Menzies, hobbled into Bournemouth with his new right hip. The former Olympic sprinter is not in training for Rio because he is waiting for a new left hip to go with it. His fiercely devoted wife, Elsbeth, was not in attendance. She won’t attend events that ban smoking, Ming told colleagues. 
+
+Sin signos de puntuación: 
+ Sir Menzies  Ming  Campbell  Kennedy s successor who is soon to be Lord Menzies  hobbled into Bournemouth with his new right hip  The former Olympic sprinter is not in training for Rio because he is waiting for a new left hip to go with it  His fiercely devoted wife  Elsbeth  was not in attendance  She won t attend events that ban smoking  Ming told colleagues  
+
+Sin números: 
+ Sir Menzies  Ming  Campbell  Kennedy s successor who is soon to be Lord Menzies  hobbled into Bournemouth with his new right hip  The former Olympic sprinter is not in training for Rio because he is waiting for a new left hip to go with it  His fiercely devoted wife  Elsbeth  was not in attendance  She won t attend events that ban smoking  Ming told colleagues  
+
+Minúsculas: 
+ sir menzies  ming  campbell  kennedy s successor who is soon to be lord menzies  hobbled into bournemouth with his new right hip  the former olympic sprinter is not in training for rio because he is waiting for a new left hip to go with it  his fiercely devoted wife  elsbeth  was not in attendance  she won t attend events that ban smoking  ming told colleagues  
+
+Palabras: 
+ ['sir', 'menzies', 'ming', 'campbell', 'kennedy', 's', 'successor', 'who', 'is', 'soon', 'to', 'be', 'lord', 'menzies', 'hobbled', 'into', 'bournemouth', 'with', 'his', 'new', 'right', 'hip', 'the', 'former', 'olympic', 'sprinter', 'is', 'not', 'in', 'training', 'for', 'rio', 'because', 'he', 'is', 'waiting', 'for', 'a', 'new', 'left', 'hip', 'to', 'go', 'with', 'it', 'his', 'fiercely', 'devoted', 'wife', 'elsbeth', 'was', 'not', 'in', 'attendance', 'she', 'won', 't', 'attend', 'events', 'that', 'ban', 'smoking', 'ming', 'told', 'colleagues']
+
+Sin cerradas: 
+ ['sir', 'menzies', 'ming', 'campbell', 'kennedy', 'successor', 'soon', 'lord', 'menzies', 'hobbled', 'bournemouth', 'new', 'right', 'hip', 'former', 'olympic', 'sprinter', 'training', 'rio', 'waiting', 'new', 'left', 'hip', 'go', 'fiercely', 'devoted', 'wife', 'elsbeth', 'attendance', 'attend', 'events', 'ban', 'smoking', 'ming', 'told', 'colleagues']
+
+Truncadas: 
+ ['sir', 'menzi', 'ming', 'campbel', 'kennedi', 'successor', 'soon', 'lord', 'menzi', 'hobbl', 'bournemouth', 'new', 'right', 'hip', 'former', 'olymp', 'sprinter', 'train', 'rio', 'wait', 'new', 'left', 'hip', 'go', 'fierc', 'devot', 'wife', 'elsbeth', 'attend', 'attend', 'event', 'ban', 'smoke', 'ming', 'told', 'colleagu']
+
+Texto final: 
+ sir menzi ming campbel kennedi successor soon lord menzi hobbl bournemouth new right hip former olymp sprinter train rio wait new left hip go fierc devot wife elsbeth attend attend event ban smoke ming told colleagu

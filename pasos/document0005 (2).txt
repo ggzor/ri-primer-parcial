@@ -1,0 +1,24 @@
+originales/document0005 (2).txt
+Original: 
+ There is a temptation for Labour to be inward looking in opposition, resorting to tribalism and indifference to opinion formers from outside the party. The challenge for the Labour party is not only to be an effective opposition, but a plural one that harnesses all of the progressive critiques of government policy, including those from within the coalition parties. 
+
+Sin signos de puntuación: 
+ There is a temptation for Labour to be inward looking in opposition  resorting to tribalism and indifference to opinion formers from outside the party  The challenge for the Labour party is not only to be an effective opposition  but a plural one that harnesses all of the progressive critiques of government policy  including those from within the coalition parties  
+
+Sin números: 
+ There is a temptation for Labour to be inward looking in opposition  resorting to tribalism and indifference to opinion formers from outside the party  The challenge for the Labour party is not only to be an effective opposition  but a plural one that harnesses all of the progressive critiques of government policy  including those from within the coalition parties  
+
+Minúsculas: 
+ there is a temptation for labour to be inward looking in opposition  resorting to tribalism and indifference to opinion formers from outside the party  the challenge for the labour party is not only to be an effective opposition  but a plural one that harnesses all of the progressive critiques of government policy  including those from within the coalition parties  
+
+Palabras: 
+ ['there', 'is', 'a', 'temptation', 'for', 'labour', 'to', 'be', 'inward', 'looking', 'in', 'opposition', 'resorting', 'to', 'tribalism', 'and', 'indifference', 'to', 'opinion', 'formers', 'from', 'outside', 'the', 'party', 'the', 'challenge', 'for', 'the', 'labour', 'party', 'is', 'not', 'only', 'to', 'be', 'an', 'effective', 'opposition', 'but', 'a', 'plural', 'one', 'that', 'harnesses', 'all', 'of', 'the', 'progressive', 'critiques', 'of', 'government', 'policy', 'including', 'those', 'from', 'within', 'the', 'coalition', 'parties']
+
+Sin cerradas: 
+ ['temptation', 'labour', 'inward', 'looking', 'opposition', 'resorting', 'tribalism', 'indifference', 'opinion', 'formers', 'outside', 'party', 'challenge', 'labour', 'party', 'effective', 'opposition', 'plural', 'one', 'harnesses', 'progressive', 'critiques', 'government', 'policy', 'including', 'within', 'coalition', 'parties']
+
+Truncadas: 
+ ['temptat', 'labour', 'inward', 'look', 'opposit', 'resort', 'tribal', 'indiffer', 'opinion', 'former', 'outsid', 'parti', 'challeng', 'labour', 'parti', 'effect', 'opposit', 'plural', 'one', 'har', 'progress', 'critiqu', 'govern', 'polici', 'includ', 'within', 'coalit', 'parti']
+
+Texto final: 
+ temptat labour inward look opposit resort tribal indiffer opinion former outsid parti challeng labour parti effect opposit plural one har progress critiqu govern polici includ within coalit parti

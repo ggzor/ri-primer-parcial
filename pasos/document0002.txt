@@ -1,0 +1,24 @@
+originales/document0002.txt
+Original: 
+ Another Lib Dem peer, popping up on the Daily Politics, could see other, entirely apposite, historical parallels. What the party needed, Lord Greaves had decided, was "a peace and reconciliation process". "If it works between Gerry Adams and Ian Paisley … if it worked in South Africa …" 
+
+Sin signos de puntuación: 
+ Another Lib Dem peer  popping up on the Daily Politics  could see other  entirely apposite  historical parallels  What the party needed  Lord Greaves had decided  was  a peace and reconciliation process    If it works between Gerry Adams and Ian Paisley   if it worked in South Africa    
+
+Sin números: 
+ Another Lib Dem peer  popping up on the Daily Politics  could see other  entirely apposite  historical parallels  What the party needed  Lord Greaves had decided  was  a peace and reconciliation process    If it works between Gerry Adams and Ian Paisley   if it worked in South Africa    
+
+Minúsculas: 
+ another lib dem peer  popping up on the daily politics  could see other  entirely apposite  historical parallels  what the party needed  lord greaves had decided  was  a peace and reconciliation process    if it works between gerry adams and ian paisley   if it worked in south africa    
+
+Palabras: 
+ ['another', 'lib', 'dem', 'peer', 'popping', 'up', 'on', 'the', 'daily', 'politics', 'could', 'see', 'other', 'entirely', 'apposite', 'historical', 'parallels', 'what', 'the', 'party', 'needed', 'lord', 'greaves', 'had', 'decided', 'was', 'a', 'peace', 'and', 'reconciliation', 'process', 'if', 'it', 'works', 'between', 'gerry', 'adams', 'and', 'ian', 'paisley', 'if', 'it', 'worked', 'in', 'south', 'africa']
+
+Sin cerradas: 
+ ['another', 'lib', 'dem', 'peer', 'popping', 'daily', 'politics', 'could', 'see', 'entirely', 'apposite', 'historical', 'parallels', 'party', 'needed', 'lord', 'greaves', 'decided', 'peace', 'reconciliation', 'process', 'works', 'gerry', 'adams', 'ian', 'paisley', 'worked', 'south', 'africa']
+
+Truncadas: 
+ ['anoth', 'lib', 'dem', 'peer', 'pop', 'daili', 'polit', 'could', 'see', 'entir', 'apposit', 'histor', 'parallel', 'parti', 'need', 'lord', 'greav', 'decid', 'peac', 'reconcili', 'process', 'work', 'gerri', 'adam', 'ian', 'paisley', 'work', 'south', 'africa']
+
+Texto final: 
+ anoth lib dem peer pop daili polit could see entir apposit histor parallel parti need lord greav decid peac reconcili process work gerri adam ian paisley work south africa

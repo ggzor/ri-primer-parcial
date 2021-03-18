@@ -1,0 +1,24 @@
+originales/document0011.txt
+Original: 
+ At the start of PMQs, it took no longer than David Cameron needed to eulogise another soldier killed in Afghanistan before the barrage began. Backbencher Steve Brine obligingly deplored the "nightmare" whereby such a dozy cleric had ever become chairman of a bank. Could the PM investigate? 
+
+Sin signos de puntuación: 
+ At the start of PMQs  it took no longer than David Cameron needed to eulogise another soldier killed in Afghanistan before the barrage began  Backbencher Steve Brine obligingly deplored the  nightmare  whereby such a dozy cleric had ever become chairman of a bank  Could the PM investigate  
+
+Sin números: 
+ At the start of PMQs  it took no longer than David Cameron needed to eulogise another soldier killed in Afghanistan before the barrage began  Backbencher Steve Brine obligingly deplored the  nightmare  whereby such a dozy cleric had ever become chairman of a bank  Could the PM investigate  
+
+Minúsculas: 
+ at the start of pmqs  it took no longer than david cameron needed to eulogise another soldier killed in afghanistan before the barrage began  backbencher steve brine obligingly deplored the  nightmare  whereby such a dozy cleric had ever become chairman of a bank  could the pm investigate  
+
+Palabras: 
+ ['at', 'the', 'start', 'of', 'pmqs', 'it', 'took', 'no', 'longer', 'than', 'david', 'cameron', 'needed', 'to', 'eulogise', 'another', 'soldier', 'killed', 'in', 'afghanistan', 'before', 'the', 'barrage', 'began', 'backbencher', 'steve', 'brine', 'obligingly', 'deplored', 'the', 'nightmare', 'whereby', 'such', 'a', 'dozy', 'cleric', 'had', 'ever', 'become', 'chairman', 'of', 'a', 'bank', 'could', 'the', 'pm', 'investigate']
+
+Sin cerradas: 
+ ['start', 'pmqs', 'took', 'longer', 'david', 'cameron', 'needed', 'eulogise', 'another', 'soldier', 'killed', 'afghanistan', 'barrage', 'began', 'backbencher', 'steve', 'brine', 'obligingly', 'deplored', 'nightmare', 'whereby', 'dozy', 'cleric', 'ever', 'become', 'chairman', 'bank', 'could', 'pm', 'investigate']
+
+Truncadas: 
+ ['start', 'pmq', 'took', 'longer', 'david', 'cameron', 'need', 'eulogis', 'anoth', 'soldier', 'kill', 'afghanistan', 'barrag', 'began', 'backbench', 'steve', 'brine', 'obligingli', 'deplor', 'nightmar', 'wherebi', 'dozi', 'cleric', 'ever', 'becom', 'chairman', 'bank', 'could', 'pm', 'investig']
+
+Texto final: 
+ start pmq took longer david cameron need eulogis anoth soldier kill afghanistan barrag began backbench steve brine obligingli deplor nightmar wherebi dozi cleric ever becom chairman bank could pm investig

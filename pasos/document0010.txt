@@ -1,0 +1,24 @@
+originales/document0010.txt
+Original: 
+ It was a good afternoon for tough women. The conference also heard from Angela Eagle, the shadow, shadow chancellor, and from Kezia Dugdale, unlucky enough to be Labour’s new leader in Scotland, but brave enough to say that Corbyn’s Labour now has “more members than at any time since Tony Blair”. 
+
+Sin signos de puntuación: 
+ It was a good afternoon for tough women  The conference also heard from Angela Eagle  the shadow  shadow chancellor  and from Kezia Dugdale  unlucky enough to be Labour s new leader in Scotland  but brave enough to say that Corbyn s Labour now has  more members than at any time since Tony Blair   
+
+Sin números: 
+ It was a good afternoon for tough women  The conference also heard from Angela Eagle  the shadow  shadow chancellor  and from Kezia Dugdale  unlucky enough to be Labour s new leader in Scotland  but brave enough to say that Corbyn s Labour now has  more members than at any time since Tony Blair   
+
+Minúsculas: 
+ it was a good afternoon for tough women  the conference also heard from angela eagle  the shadow  shadow chancellor  and from kezia dugdale  unlucky enough to be labour s new leader in scotland  but brave enough to say that corbyn s labour now has  more members than at any time since tony blair   
+
+Palabras: 
+ ['it', 'was', 'a', 'good', 'afternoon', 'for', 'tough', 'women', 'the', 'conference', 'also', 'heard', 'from', 'angela', 'eagle', 'the', 'shadow', 'shadow', 'chancellor', 'and', 'from', 'kezia', 'dugdale', 'unlucky', 'enough', 'to', 'be', 'labour', 's', 'new', 'leader', 'in', 'scotland', 'but', 'brave', 'enough', 'to', 'say', 'that', 'corbyn', 's', 'labour', 'now', 'has', 'more', 'members', 'than', 'at', 'any', 'time', 'since', 'tony', 'blair']
+
+Sin cerradas: 
+ ['good', 'afternoon', 'tough', 'women', 'conference', 'also', 'heard', 'angela', 'eagle', 'shadow', 'shadow', 'chancellor', 'kezia', 'dugdale', 'unlucky', 'enough', 'labour', 'new', 'leader', 'scotland', 'brave', 'enough', 'say', 'corbyn', 'labour', 'members', 'time', 'since', 'tony', 'blair']
+
+Truncadas: 
+ ['good', 'afternoon', 'tough', 'women', 'confer', 'also', 'heard', 'angela', 'eagl', 'shadow', 'shadow', 'chancellor', 'kezia', 'dugdal', 'unlucki', 'enough', 'labour', 'new', 'leader', 'scotland', 'brave', 'enough', 'say', 'corbyn', 'labour', 'member', 'time', 'sinc', 'toni', 'blair']
+
+Texto final: 
+ good afternoon tough women confer also heard angela eagl shadow shadow chancellor kezia dugdal unlucki enough labour new leader scotland brave enough say corbyn labour member time sinc toni blair

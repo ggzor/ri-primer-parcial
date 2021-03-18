@@ -1,0 +1,24 @@
+originales/document0007.txt
+Original: 
+ As the more charitable are keen to point out, coalition governments necessitate compromise. But to compromise well you must at least be clear where you are coming from. The Liberal Democrats will eventually have to decide whether they are the party of Shirley Williams or the party of an increasingly blue Nick Clegg. 
+
+Sin signos de puntuación: 
+ As the more charitable are keen to point out  coalition governments necessitate compromise  But to compromise well you must at least be clear where you are coming from  The Liberal Democrats will eventually have to decide whether they are the party of Shirley Williams or the party of an increasingly blue Nick Clegg  
+
+Sin números: 
+ As the more charitable are keen to point out  coalition governments necessitate compromise  But to compromise well you must at least be clear where you are coming from  The Liberal Democrats will eventually have to decide whether they are the party of Shirley Williams or the party of an increasingly blue Nick Clegg  
+
+Minúsculas: 
+ as the more charitable are keen to point out  coalition governments necessitate compromise  but to compromise well you must at least be clear where you are coming from  the liberal democrats will eventually have to decide whether they are the party of shirley williams or the party of an increasingly blue nick clegg  
+
+Palabras: 
+ ['as', 'the', 'more', 'charitable', 'are', 'keen', 'to', 'point', 'out', 'coalition', 'governments', 'necessitate', 'compromise', 'but', 'to', 'compromise', 'well', 'you', 'must', 'at', 'least', 'be', 'clear', 'where', 'you', 'are', 'coming', 'from', 'the', 'liberal', 'democrats', 'will', 'eventually', 'have', 'to', 'decide', 'whether', 'they', 'are', 'the', 'party', 'of', 'shirley', 'williams', 'or', 'the', 'party', 'of', 'an', 'increasingly', 'blue', 'nick', 'clegg']
+
+Sin cerradas: 
+ ['charitable', 'keen', 'point', 'coalition', 'governments', 'necessitate', 'compromise', 'compromise', 'well', 'must', 'least', 'clear', 'coming', 'liberal', 'democrats', 'eventually', 'decide', 'whether', 'party', 'shirley', 'williams', 'party', 'increasingly', 'blue', 'nick', 'clegg']
+
+Truncadas: 
+ ['charit', 'keen', 'point', 'coalit', 'govern', 'necessit', 'compromis', 'compromis', 'well', 'must', 'least', 'clear', 'come', 'liber', 'democrat', 'eventu', 'decid', 'whether', 'parti', 'shirley', 'william', 'parti', 'increasingli', 'blue', 'nick', 'clegg']
+
+Texto final: 
+ charit keen point coalit govern necessit compromis compromis well must least clear come liber democrat eventu decid whether parti shirley william parti increasingli blue nick clegg

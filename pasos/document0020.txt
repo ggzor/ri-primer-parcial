@@ -1,0 +1,24 @@
+originales/document0020.txt
+Original: 
+ Either alarm or the competitive streak seems to have finished Rowland. The Belize billionaire Lord Ashcroft , himself a controversial figure who only belatedly admitted his non-dom status this year, and the outgoing treasurer, Michael Spencer, warned David Cameron against going ahead with Rowland's appointment. 
+
+Sin signos de puntuación: 
+ Either alarm or the competitive streak seems to have finished Rowland  The Belize billionaire Lord Ashcroft   himself a controversial figure who only belatedly admitted his non dom status this year  and the outgoing treasurer  Michael Spencer  warned David Cameron against going ahead with Rowland s appointment  
+
+Sin números: 
+ Either alarm or the competitive streak seems to have finished Rowland  The Belize billionaire Lord Ashcroft   himself a controversial figure who only belatedly admitted his non dom status this year  and the outgoing treasurer  Michael Spencer  warned David Cameron against going ahead with Rowland s appointment  
+
+Minúsculas: 
+ either alarm or the competitive streak seems to have finished rowland  the belize billionaire lord ashcroft   himself a controversial figure who only belatedly admitted his non dom status this year  and the outgoing treasurer  michael spencer  warned david cameron against going ahead with rowland s appointment  
+
+Palabras: 
+ ['either', 'alarm', 'or', 'the', 'competitive', 'streak', 'seems', 'to', 'have', 'finished', 'rowland', 'the', 'belize', 'billionaire', 'lord', 'ashcroft', 'himself', 'a', 'controversial', 'figure', 'who', 'only', 'belatedly', 'admitted', 'his', 'non', 'dom', 'status', 'this', 'year', 'and', 'the', 'outgoing', 'treasurer', 'michael', 'spencer', 'warned', 'david', 'cameron', 'against', 'going', 'ahead', 'with', 'rowland', 's', 'appointment']
+
+Sin cerradas: 
+ ['either', 'alarm', 'competitive', 'streak', 'seems', 'finished', 'rowland', 'belize', 'billionaire', 'lord', 'ashcroft', 'controversial', 'figure', 'belatedly', 'admitted', 'non', 'dom', 'status', 'year', 'outgoing', 'treasurer', 'michael', 'spencer', 'warned', 'david', 'cameron', 'going', 'ahead', 'rowland', 'appointment']
+
+Truncadas: 
+ ['either', 'alarm', 'competit', 'streak', 'seem', 'finish', 'rowland', 'beliz', 'billionair', 'lord', 'ashcroft', 'controversi', 'figur', 'belatedli', 'admit', 'non', 'dom', 'statu', 'year', 'outgo', 'treasur', 'michael', 'spencer', 'warn', 'david', 'cameron', 'go', 'ahead', 'rowland', 'appoint']
+
+Texto final: 
+ either alarm competit streak seem finish rowland beliz billionair lord ashcroft controversi figur belatedli admit non dom statu year outgo treasur michael spencer warn david cameron go ahead rowland appoint

@@ -1,0 +1,24 @@
+originales/document0014 (3).txt
+Original: 
+ The problems are obvious. First, he has to overcome the long political shadow of his years as the very public right-hand man of Gordon Brown – to whom he paid the most explicit tribute I've heard this week – and second, his position on the deficit. This is beginning to sound more nuanced than it did during the leadership campaign, and he did not directly contradict the Darling position in his speech, nor when pressed on the BBC's World at One immediately afterwards. 
+
+Sin signos de puntuación: 
+ The problems are obvious  First  he has to overcome the long political shadow of his years as the very public right hand man of Gordon Brown – to whom he paid the most explicit tribute I ve heard this week – and second  his position on the deficit  This is beginning to sound more nuanced than it did during the leadership campaign  and he did not directly contradict the Darling position in his speech  nor when pressed on the BBC s World at One immediately afterwards  
+
+Sin números: 
+ The problems are obvious  First  he has to overcome the long political shadow of his years as the very public right hand man of Gordon Brown – to whom he paid the most explicit tribute I ve heard this week – and second  his position on the deficit  This is beginning to sound more nuanced than it did during the leadership campaign  and he did not directly contradict the Darling position in his speech  nor when pressed on the BBC s World at One immediately afterwards  
+
+Minúsculas: 
+ the problems are obvious  first  he has to overcome the long political shadow of his years as the very public right hand man of gordon brown – to whom he paid the most explicit tribute i ve heard this week – and second  his position on the deficit  this is beginning to sound more nuanced than it did during the leadership campaign  and he did not directly contradict the darling position in his speech  nor when pressed on the bbc s world at one immediately afterwards  
+
+Palabras: 
+ ['the', 'problems', 'are', 'obvious', 'first', 'he', 'has', 'to', 'overcome', 'the', 'long', 'political', 'shadow', 'of', 'his', 'years', 'as', 'the', 'very', 'public', 'right', 'hand', 'man', 'of', 'gordon', 'brown', 'to', 'whom', 'he', 'paid', 'the', 'most', 'explicit', 'tribute', 'i', 've', 'heard', 'this', 'week', 'and', 'second', 'his', 'position', 'on', 'the', 'deficit', 'this', 'is', 'beginning', 'to', 'sound', 'more', 'nuanced', 'than', 'it', 'did', 'during', 'the', 'leadership', 'campaign', 'and', 'he', 'did', 'not', 'directly', 'contradict', 'the', 'darling', 'position', 'in', 'his', 'speech', 'nor', 'when', 'pressed', 'on', 'the', 'bbc', 's', 'world', 'at', 'one', 'immediately', 'afterwards']
+
+Sin cerradas: 
+ ['problems', 'obvious', 'first', 'overcome', 'long', 'political', 'shadow', 'years', 'public', 'right', 'hand', 'man', 'gordon', 'brown', 'paid', 'explicit', 'tribute', 'heard', 'week', 'second', 'position', 'deficit', 'beginning', 'sound', 'nuanced', 'leadership', 'campaign', 'directly', 'contradict', 'darling', 'position', 'speech', 'pressed', 'bbc', 'world', 'one', 'immediately', 'afterwards']
+
+Truncadas: 
+ ['problem', 'obviou', 'first', 'overcom', 'long', 'polit', 'shadow', 'year', 'public', 'right', 'hand', 'man', 'gordon', 'brown', 'paid', 'explicit', 'tribut', 'heard', 'week', 'second', 'posit', 'deficit', 'begin', 'sound', 'nuanc', 'leadership', 'campaign', 'directli', 'contradict', 'darl', 'posit', 'speech', 'press', 'bbc', 'world', 'one', 'immedi', 'afterward']
+
+Texto final: 
+ problem obviou first overcom long polit shadow year public right hand man gordon brown paid explicit tribut heard week second posit deficit begin sound nuanc leadership campaign directli contradict darl posit speech press bbc world one immedi afterward

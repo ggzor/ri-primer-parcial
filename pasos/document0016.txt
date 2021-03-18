@@ -1,0 +1,24 @@
+originales/document0016.txt
+Original: 
+ He was shamelessly brilliant, kind to his defeated rivals even. First Statesman Salmond embraced everyone. He wanted them all to feel Scottish ("our sparkling sands, glittering granite"): Poles, Irish, Italians, even the English, everyone except those "bigots and fools" who wreck Old Firm football matches. 
+
+Sin signos de puntuación: 
+ He was shamelessly brilliant  kind to his defeated rivals even  First Statesman Salmond embraced everyone  He wanted them all to feel Scottish   our sparkling sands  glittering granite    Poles  Irish  Italians  even the English  everyone except those  bigots and fools  who wreck Old Firm football matches  
+
+Sin números: 
+ He was shamelessly brilliant  kind to his defeated rivals even  First Statesman Salmond embraced everyone  He wanted them all to feel Scottish   our sparkling sands  glittering granite    Poles  Irish  Italians  even the English  everyone except those  bigots and fools  who wreck Old Firm football matches  
+
+Minúsculas: 
+ he was shamelessly brilliant  kind to his defeated rivals even  first statesman salmond embraced everyone  he wanted them all to feel scottish   our sparkling sands  glittering granite    poles  irish  italians  even the english  everyone except those  bigots and fools  who wreck old firm football matches  
+
+Palabras: 
+ ['he', 'was', 'shamelessly', 'brilliant', 'kind', 'to', 'his', 'defeated', 'rivals', 'even', 'first', 'statesman', 'salmond', 'embraced', 'everyone', 'he', 'wanted', 'them', 'all', 'to', 'feel', 'scottish', 'our', 'sparkling', 'sands', 'glittering', 'granite', 'poles', 'irish', 'italians', 'even', 'the', 'english', 'everyone', 'except', 'those', 'bigots', 'and', 'fools', 'who', 'wreck', 'old', 'firm', 'football', 'matches']
+
+Sin cerradas: 
+ ['shamelessly', 'brilliant', 'kind', 'defeated', 'rivals', 'even', 'first', 'statesman', 'salmond', 'embraced', 'everyone', 'wanted', 'feel', 'scottish', 'sparkling', 'sands', 'glittering', 'granite', 'poles', 'irish', 'italians', 'even', 'english', 'everyone', 'except', 'bigots', 'fools', 'wreck', 'old', 'firm', 'football', 'matches']
+
+Truncadas: 
+ ['shamelessli', 'brilliant', 'kind', 'defeat', 'rival', 'even', 'first', 'statesman', 'salmond', 'embrac', 'everyon', 'want', 'feel', 'scottish', 'sparkl', 'sand', 'glitter', 'granit', 'pole', 'irish', 'italian', 'even', 'english', 'everyon', 'except', 'bigot', 'fool', 'wreck', 'old', 'firm', 'footbal', 'match']
+
+Texto final: 
+ shamelessli brilliant kind defeat rival even first statesman salmond embrac everyon want feel scottish sparkl sand glitter granit pole irish italian even english everyon except bigot fool wreck old firm footbal match

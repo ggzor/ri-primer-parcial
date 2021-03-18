@@ -1,0 +1,24 @@
+originales/document0020 (2).txt
+Original: 
+ Despite these apparent advantages it may not be an easy conference for the LibDem leadership, since this may be the last chance for activists to leave their mark on the party manifesto for 2015. But Clegg holds at least one ace. These are the same activists who, when asked to endorse the five-year programme of the coalition in the heady days of the rose garden, did so by an overwhelming majority. No one ever said it was going to be easy. 
+
+Sin signos de puntuación: 
+ Despite these apparent advantages it may not be an easy conference for the LibDem leadership  since this may be the last chance for activists to leave their mark on the party manifesto for 2015  But Clegg holds at least one ace  These are the same activists who  when asked to endorse the five year programme of the coalition in the heady days of the rose garden  did so by an overwhelming majority  No one ever said it was going to be easy  
+
+Sin números: 
+ Despite these apparent advantages it may not be an easy conference for the LibDem leadership  since this may be the last chance for activists to leave their mark on the party manifesto for   But Clegg holds at least one ace  These are the same activists who  when asked to endorse the five year programme of the coalition in the heady days of the rose garden  did so by an overwhelming majority  No one ever said it was going to be easy  
+
+Minúsculas: 
+ despite these apparent advantages it may not be an easy conference for the libdem leadership  since this may be the last chance for activists to leave their mark on the party manifesto for   but clegg holds at least one ace  these are the same activists who  when asked to endorse the five year programme of the coalition in the heady days of the rose garden  did so by an overwhelming majority  no one ever said it was going to be easy  
+
+Palabras: 
+ ['despite', 'these', 'apparent', 'advantages', 'it', 'may', 'not', 'be', 'an', 'easy', 'conference', 'for', 'the', 'libdem', 'leadership', 'since', 'this', 'may', 'be', 'the', 'last', 'chance', 'for', 'activists', 'to', 'leave', 'their', 'mark', 'on', 'the', 'party', 'manifesto', 'for', 'but', 'clegg', 'holds', 'at', 'least', 'one', 'ace', 'these', 'are', 'the', 'same', 'activists', 'who', 'when', 'asked', 'to', 'endorse', 'the', 'five', 'year', 'programme', 'of', 'the', 'coalition', 'in', 'the', 'heady', 'days', 'of', 'the', 'rose', 'garden', 'did', 'so', 'by', 'an', 'overwhelming', 'majority', 'no', 'one', 'ever', 'said', 'it', 'was', 'going', 'to', 'be', 'easy']
+
+Sin cerradas: 
+ ['despite', 'apparent', 'advantages', 'may', 'easy', 'conference', 'libdem', 'leadership', 'since', 'may', 'last', 'chance', 'activists', 'leave', 'mark', 'party', 'manifesto', 'clegg', 'holds', 'least', 'one', 'ace', 'activists', 'asked', 'endorse', 'five', 'year', 'programme', 'coalition', 'heady', 'days', 'rose', 'garden', 'overwhelming', 'majority', 'one', 'ever', 'said', 'going', 'easy']
+
+Truncadas: 
+ ['despit', 'appar', 'advantag', 'may', 'easi', 'confer', 'libdem', 'leadership', 'sinc', 'may', 'last', 'chanc', 'activist', 'leav', 'mark', 'parti', 'manifesto', 'clegg', 'hold', 'least', 'one', 'ace', 'activist', 'ask', 'endors', 'five', 'year', 'programm', 'coalit', 'headi', 'day', 'rose', 'garden', 'overwhelm', 'major', 'one', 'ever', 'said', 'go', 'easi']
+
+Texto final: 
+ despit appar advantag may easi confer libdem leadership sinc may last chanc activist leav mark parti manifesto clegg hold least one ace activist ask endors five year programm coalit headi day rose garden overwhelm major one ever said go easi

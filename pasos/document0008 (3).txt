@@ -1,0 +1,20 @@
+originales/document0008 (3).txt
+Original: 
+ Now is not the time for self-justification. But I feel the hand of hist… no; I feel it worth mentioning, in self-aggrandising fashion, the last line of that 1997 piece: "Things can only get bitter." There are, sadly, so many other things in life which I wish I'd got as right. 
+Sin signos de puntuación: 
+ Now is not the time for self justification  But I feel the hand of hist  no  I feel it worth mentioning  in self aggrandising fashion  the last line of that 1997 piece   Things can only get bitter   There are  sadly  so many other things in life which I wish I d got as right  
+Sin números: 
+ Now is not the time for self justification  But I feel the hand of hist  no  I feel it worth mentioning  in self aggrandising fashion  the last line of that  piece   Things can only get bitter   There are  sadly  so many other things in life which I wish I d got as right  
+Minúsculas: 
+ now is not the time for self justification  but i feel the hand of hist  no  i feel it worth mentioning  in self aggrandising fashion  the last line of that  piece   things can only get bitter   there are  sadly  so many other things in life which i wish i d got as right  
+Palabras: 
+ ['now', 'is', 'not', 'the', 'time', 'for', 'self', 'justification', 'but', 'i', 'feel', 'the', 'hand', 'of', 'hist', 'no', 'i', 'feel', 'it', 'worth', 'mentioning', 'in', 'self', 'aggrandising', 'fashion', 'the', 'last', 'line', 'of', 'that', 'piece', 'things', 'can', 'only', 'get', 'bitter', 'there', 'are', 'sadly', 'so', 'many', 'other', 'things', 'in', 'life', 'which', 'i', 'wish', 'i', 'd', 'got', 'as', 'right']
+
+Sin cerradas: 
+ ['time', 'self', 'justification', 'feel', 'hand', 'hist', 'feel', 'worth', 'mentioning', 'self', 'aggrandising', 'fashion', 'last', 'line', 'piece', 'things', 'get', 'bitter', 'sadly', 'many', 'things', 'life', 'wish', 'got', 'right']
+
+Truncadas: 
+ ['time', 'self', 'justif', 'feel', 'hand', 'hist', 'feel', 'worth', 'mention', 'self', 'aggrandis', 'fashion', 'last', 'line', 'piec', 'thing', 'get', 'bitter', 'sadli', 'mani', 'thing', 'life', 'wish', 'got', 'right']
+
+Texto final: 
+ time self justif feel hand hist feel worth mention self aggrandis fashion last line piec thing get bitter sadli mani thing life wish got right

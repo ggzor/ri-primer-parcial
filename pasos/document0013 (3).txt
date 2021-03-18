@@ -1,0 +1,24 @@
+originales/document0013 (3).txt
+Original: 
+ The trouble is that all Blair’s financial affairs are very opaque and, I fear, deliberately so. He looks greedy, a taint which won’t now wash off unless he gives it all away. 
+
+Sin signos de puntuación: 
+ The trouble is that all Blair s financial affairs are very opaque and  I fear  deliberately so  He looks greedy  a taint which won t now wash off unless he gives it all away  
+
+Sin números: 
+ The trouble is that all Blair s financial affairs are very opaque and  I fear  deliberately so  He looks greedy  a taint which won t now wash off unless he gives it all away  
+
+Minúsculas: 
+ the trouble is that all blair s financial affairs are very opaque and  i fear  deliberately so  he looks greedy  a taint which won t now wash off unless he gives it all away  
+
+Palabras: 
+ ['the', 'trouble', 'is', 'that', 'all', 'blair', 's', 'financial', 'affairs', 'are', 'very', 'opaque', 'and', 'i', 'fear', 'deliberately', 'so', 'he', 'looks', 'greedy', 'a', 'taint', 'which', 'won', 't', 'now', 'wash', 'off', 'unless', 'he', 'gives', 'it', 'all', 'away']
+
+Sin cerradas: 
+ ['trouble', 'blair', 'financial', 'affairs', 'opaque', 'fear', 'deliberately', 'looks', 'greedy', 'taint', 'wash', 'unless', 'gives', 'away']
+
+Truncadas: 
+ ['troubl', 'blair', 'financi', 'affair', 'opaqu', 'fear', 'deliber', 'look', 'greedi', 'taint', 'wash', 'unless', 'give', 'away']
+
+Texto final: 
+ troubl blair financi affair opaqu fear deliber look greedi taint wash unless give away

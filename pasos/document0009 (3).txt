@@ -1,0 +1,24 @@
+originales/document0009 (3).txt
+Original: 
+ The day the prime minister makes his junior appointments is a stressful time for the the police on duty at the Downing Street gates. They don’t want to appear rude, but they haven’t a clue who most of the new faces are. All they have to go on is a series of blurred mug shots that were hastily printed out for them a few minutes earlier. 
+
+Sin signos de puntuación: 
+ The day the prime minister makes his junior appointments is a stressful time for the the police on duty at the Downing Street gates  They don t want to appear rude  but they haven t a clue who most of the new faces are  All they have to go on is a series of blurred mug shots that were hastily printed out for them a few minutes earlier  
+
+Sin números: 
+ The day the prime minister makes his junior appointments is a stressful time for the the police on duty at the Downing Street gates  They don t want to appear rude  but they haven t a clue who most of the new faces are  All they have to go on is a series of blurred mug shots that were hastily printed out for them a few minutes earlier  
+
+Minúsculas: 
+ the day the prime minister makes his junior appointments is a stressful time for the the police on duty at the downing street gates  they don t want to appear rude  but they haven t a clue who most of the new faces are  all they have to go on is a series of blurred mug shots that were hastily printed out for them a few minutes earlier  
+
+Palabras: 
+ ['the', 'day', 'the', 'prime', 'minister', 'makes', 'his', 'junior', 'appointments', 'is', 'a', 'stressful', 'time', 'for', 'the', 'the', 'police', 'on', 'duty', 'at', 'the', 'downing', 'street', 'gates', 'they', 'don', 't', 'want', 'to', 'appear', 'rude', 'but', 'they', 'haven', 't', 'a', 'clue', 'who', 'most', 'of', 'the', 'new', 'faces', 'are', 'all', 'they', 'have', 'to', 'go', 'on', 'is', 'a', 'series', 'of', 'blurred', 'mug', 'shots', 'that', 'were', 'hastily', 'printed', 'out', 'for', 'them', 'a', 'few', 'minutes', 'earlier']
+
+Sin cerradas: 
+ ['day', 'prime', 'minister', 'makes', 'junior', 'appointments', 'stressful', 'time', 'police', 'duty', 'downing', 'street', 'gates', 'want', 'appear', 'rude', 'clue', 'new', 'faces', 'go', 'series', 'blurred', 'mug', 'shots', 'hastily', 'printed', 'minutes', 'earlier']
+
+Truncadas: 
+ ['day', 'prime', 'minist', 'make', 'junior', 'appoint', 'stress', 'time', 'polic', 'duti', 'down', 'street', 'gate', 'want', 'appear', 'rude', 'clue', 'new', 'face', 'go', 'seri', 'blur', 'mug', 'shot', 'hastili', 'print', 'minut', 'earlier']
+
+Texto final: 
+ day prime minist make junior appoint stress time polic duti down street gate want appear rude clue new face go seri blur mug shot hastili print minut earlier

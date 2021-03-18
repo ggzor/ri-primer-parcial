@@ -1,0 +1,24 @@
+originales/document0009 (2).txt
+Original: 
+ For those unable to put cross to paper without knowing what sauce the Tory leader would put on his chips, or who he’d most like to have a selfie with, the wait is almost over. Those questions will be answered, along with others tabled by inquisitors including the aforementioned Essex, Alan Carr, and Steph and Dom, the posh couple off of Gogglebox. 
+
+Sin signos de puntuación: 
+ For those unable to put cross to paper without knowing what sauce the Tory leader would put on his chips  or who he d most like to have a selfie with  the wait is almost over  Those questions will be answered  along with others tabled by inquisitors including the aforementioned Essex  Alan Carr  and Steph and Dom  the posh couple off of Gogglebox  
+
+Sin números: 
+ For those unable to put cross to paper without knowing what sauce the Tory leader would put on his chips  or who he d most like to have a selfie with  the wait is almost over  Those questions will be answered  along with others tabled by inquisitors including the aforementioned Essex  Alan Carr  and Steph and Dom  the posh couple off of Gogglebox  
+
+Minúsculas: 
+ for those unable to put cross to paper without knowing what sauce the tory leader would put on his chips  or who he d most like to have a selfie with  the wait is almost over  those questions will be answered  along with others tabled by inquisitors including the aforementioned essex  alan carr  and steph and dom  the posh couple off of gogglebox  
+
+Palabras: 
+ ['for', 'those', 'unable', 'to', 'put', 'cross', 'to', 'paper', 'without', 'knowing', 'what', 'sauce', 'the', 'tory', 'leader', 'would', 'put', 'on', 'his', 'chips', 'or', 'who', 'he', 'd', 'most', 'like', 'to', 'have', 'a', 'selfie', 'with', 'the', 'wait', 'is', 'almost', 'over', 'those', 'questions', 'will', 'be', 'answered', 'along', 'with', 'others', 'tabled', 'by', 'inquisitors', 'including', 'the', 'aforementioned', 'essex', 'alan', 'carr', 'and', 'steph', 'and', 'dom', 'the', 'posh', 'couple', 'off', 'of', 'gogglebox']
+
+Sin cerradas: 
+ ['unable', 'put', 'cross', 'paper', 'without', 'knowing', 'sauce', 'tory', 'leader', 'would', 'put', 'chips', 'like', 'selfie', 'wait', 'almost', 'questions', 'answered', 'along', 'others', 'tabled', 'inquisitors', 'including', 'aforementioned', 'essex', 'alan', 'carr', 'steph', 'dom', 'posh', 'couple', 'gogglebox']
+
+Truncadas: 
+ ['unabl', 'put', 'cross', 'paper', 'without', 'know', 'sauc', 'tori', 'leader', 'would', 'put', 'chip', 'like', 'selfi', 'wait', 'almost', 'question', 'answer', 'along', 'other', 'tabl', 'inquisitor', 'includ', 'aforement', 'essex', 'alan', 'carr', 'steph', 'dom', 'posh', 'coupl', 'gogglebox']
+
+Texto final: 
+ unabl put cross paper without know sauc tori leader would put chip like selfi wait almost question answer along other tabl inquisitor includ aforement essex alan carr steph dom posh coupl gogglebox

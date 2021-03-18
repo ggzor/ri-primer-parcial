@@ -1,0 +1,24 @@
+originales/document0006 (2).txt
+Original: 
+ Meanwhile, you certainly get an idiosyncratic stripe of small talk in the selfie queue at a Boris gig. “Did you read today that France have closed the refugee camps?” was one chap’s gambit to me. “So I wonder what’s going to happen now?” he went on with an arched eyebrow, like we both totally knew. “Isn’t he an absolute legend?” a young man observed. “Isn’t your day just going to go downhill after this?” 
+
+Sin signos de puntuación: 
+ Meanwhile  you certainly get an idiosyncratic stripe of small talk in the selfie queue at a Boris gig   Did you read today that France have closed the refugee camps   was one chap s gambit to me   So I wonder what s going to happen now   he went on with an arched eyebrow  like we both totally knew   Isn t he an absolute legend   a young man observed   Isn t your day just going to go downhill after this   
+
+Sin números: 
+ Meanwhile  you certainly get an idiosyncratic stripe of small talk in the selfie queue at a Boris gig   Did you read today that France have closed the refugee camps   was one chap s gambit to me   So I wonder what s going to happen now   he went on with an arched eyebrow  like we both totally knew   Isn t he an absolute legend   a young man observed   Isn t your day just going to go downhill after this   
+
+Minúsculas: 
+ meanwhile  you certainly get an idiosyncratic stripe of small talk in the selfie queue at a boris gig   did you read today that france have closed the refugee camps   was one chap s gambit to me   so i wonder what s going to happen now   he went on with an arched eyebrow  like we both totally knew   isn t he an absolute legend   a young man observed   isn t your day just going to go downhill after this   
+
+Palabras: 
+ ['meanwhile', 'you', 'certainly', 'get', 'an', 'idiosyncratic', 'stripe', 'of', 'small', 'talk', 'in', 'the', 'selfie', 'queue', 'at', 'a', 'boris', 'gig', 'did', 'you', 'read', 'today', 'that', 'france', 'have', 'closed', 'the', 'refugee', 'camps', 'was', 'one', 'chap', 's', 'gambit', 'to', 'me', 'so', 'i', 'wonder', 'what', 's', 'going', 'to', 'happen', 'now', 'he', 'went', 'on', 'with', 'an', 'arched', 'eyebrow', 'like', 'we', 'both', 'totally', 'knew', 'isn', 't', 'he', 'an', 'absolute', 'legend', 'a', 'young', 'man', 'observed', 'isn', 't', 'your', 'day', 'just', 'going', 'to', 'go', 'downhill', 'after', 'this']
+
+Sin cerradas: 
+ ['meanwhile', 'certainly', 'get', 'idiosyncratic', 'stripe', 'small', 'talk', 'selfie', 'queue', 'boris', 'gig', 'read', 'today', 'france', 'closed', 'refugee', 'camps', 'one', 'chap', 'gambit', 'wonder', 'going', 'happen', 'went', 'arched', 'eyebrow', 'like', 'totally', 'knew', 'absolute', 'legend', 'young', 'man', 'observed', 'day', 'going', 'go', 'downhill']
+
+Truncadas: 
+ ['meanwhil', 'certainli', 'get', 'idiosyncrat', 'stripe', 'small', 'talk', 'selfi', 'queue', 'bori', 'gig', 'read', 'today', 'franc', 'close', 'refuge', 'camp', 'one', 'chap', 'gambit', 'wonder', 'go', 'happen', 'went', 'arch', 'eyebrow', 'like', 'total', 'knew', 'absolut', 'legend', 'young', 'man', 'observ', 'day', 'go', 'go', 'downhil']
+
+Texto final: 
+ meanwhil certainli get idiosyncrat stripe small talk selfi queue bori gig read today franc close refuge camp one chap gambit wonder go happen went arch eyebrow like total knew absolut legend young man observ day go go downhil

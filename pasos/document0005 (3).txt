@@ -1,0 +1,24 @@
+originales/document0005 (3).txt
+Original: 
+ “It is reckless and an outrage,” said Angela Eagle. “He appears to have gone out of his way to ignore the advice of the McKay Commission. Why did he not have a proper consultation with cross-party agreement on such an important constitutional matter?” 
+
+Sin signos de puntuación: 
+  It is reckless and an outrage   said Angela Eagle   He appears to have gone out of his way to ignore the advice of the McKay Commission  Why did he not have a proper consultation with cross party agreement on such an important constitutional matter   
+
+Sin números: 
+  It is reckless and an outrage   said Angela Eagle   He appears to have gone out of his way to ignore the advice of the McKay Commission  Why did he not have a proper consultation with cross party agreement on such an important constitutional matter   
+
+Minúsculas: 
+  it is reckless and an outrage   said angela eagle   he appears to have gone out of his way to ignore the advice of the mckay commission  why did he not have a proper consultation with cross party agreement on such an important constitutional matter   
+
+Palabras: 
+ ['it', 'is', 'reckless', 'and', 'an', 'outrage', 'said', 'angela', 'eagle', 'he', 'appears', 'to', 'have', 'gone', 'out', 'of', 'his', 'way', 'to', 'ignore', 'the', 'advice', 'of', 'the', 'mckay', 'commission', 'why', 'did', 'he', 'not', 'have', 'a', 'proper', 'consultation', 'with', 'cross', 'party', 'agreement', 'on', 'such', 'an', 'important', 'constitutional', 'matter']
+
+Sin cerradas: 
+ ['reckless', 'outrage', 'said', 'angela', 'eagle', 'appears', 'gone', 'way', 'ignore', 'advice', 'mckay', 'commission', 'proper', 'consultation', 'cross', 'party', 'agreement', 'important', 'constitutional', 'matter']
+
+Truncadas: 
+ ['reckless', 'outrag', 'said', 'angela', 'eagl', 'appear', 'gone', 'way', 'ignor', 'advic', 'mckay', 'commiss', 'proper', 'consult', 'cross', 'parti', 'agreement', 'import', 'constitut', 'matter']
+
+Texto final: 
+ reckless outrag said angela eagl appear gone way ignor advic mckay commiss proper consult cross parti agreement import constitut matter

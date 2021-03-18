@@ -1,0 +1,24 @@
+originales/document0012.txt
+Original: 
+ Indeed, blessed with a clutch of cameras and political reporters, Bloom's thinking was finding itself freer than ever. Michael Crick of Channel 4 News attempted to ask the MEP why the conference programme, entitled "Changing the face of politics", featured among its 272 Ukip faces not a single black one. 
+
+Sin signos de puntuación: 
+ Indeed  blessed with a clutch of cameras and political reporters  Bloom s thinking was finding itself freer than ever  Michael Crick of Channel 4 News attempted to ask the MEP why the conference programme  entitled  Changing the face of politics   featured among its 272 Ukip faces not a single black one  
+
+Sin números: 
+ Indeed  blessed with a clutch of cameras and political reporters  Bloom s thinking was finding itself freer than ever  Michael Crick of Channel  News attempted to ask the MEP why the conference programme  entitled  Changing the face of politics   featured among its  Ukip faces not a single black one  
+
+Minúsculas: 
+ indeed  blessed with a clutch of cameras and political reporters  bloom s thinking was finding itself freer than ever  michael crick of channel  news attempted to ask the mep why the conference programme  entitled  changing the face of politics   featured among its  ukip faces not a single black one  
+
+Palabras: 
+ ['indeed', 'blessed', 'with', 'a', 'clutch', 'of', 'cameras', 'and', 'political', 'reporters', 'bloom', 's', 'thinking', 'was', 'finding', 'itself', 'freer', 'than', 'ever', 'michael', 'crick', 'of', 'channel', 'news', 'attempted', 'to', 'ask', 'the', 'mep', 'why', 'the', 'conference', 'programme', 'entitled', 'changing', 'the', 'face', 'of', 'politics', 'featured', 'among', 'its', 'ukip', 'faces', 'not', 'a', 'single', 'black', 'one']
+
+Sin cerradas: 
+ ['indeed', 'blessed', 'clutch', 'cameras', 'political', 'reporters', 'bloom', 'thinking', 'finding', 'freer', 'ever', 'michael', 'crick', 'channel', 'news', 'attempted', 'ask', 'mep', 'conference', 'programme', 'entitled', 'changing', 'face', 'politics', 'featured', 'among', 'ukip', 'faces', 'single', 'black', 'one']
+
+Truncadas: 
+ ['inde', 'bless', 'clutch', 'camera', 'polit', 'report', 'bloom', 'think', 'find', 'freer', 'ever', 'michael', 'crick', 'channel', 'news', 'attempt', 'ask', 'mep', 'confer', 'programm', 'entitl', 'chang', 'face', 'polit', 'featur', 'among', 'ukip', 'face', 'singl', 'black', 'one']
+
+Texto final: 
+ inde bless clutch camera polit report bloom think find freer ever michael crick channel news attempt ask mep confer programm entitl chang face polit featur among ukip face singl black one

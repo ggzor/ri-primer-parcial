@@ -1,0 +1,24 @@
+originales/document0007 (2).txt
+Original: 
+ And what of Miliband? The Labour leader's August has been a wicked month. One by one Blairites and foot soldiers alike have queued up to question his ability to win. To cap it all, in his attempt to show his independence from the trade unions he has picked a fight with the money men who keep Labour afloat. 
+
+Sin signos de puntuación: 
+ And what of Miliband  The Labour leader s August has been a wicked month  One by one Blairites and foot soldiers alike have queued up to question his ability to win  To cap it all  in his attempt to show his independence from the trade unions he has picked a fight with the money men who keep Labour afloat  
+
+Sin números: 
+ And what of Miliband  The Labour leader s August has been a wicked month  One by one Blairites and foot soldiers alike have queued up to question his ability to win  To cap it all  in his attempt to show his independence from the trade unions he has picked a fight with the money men who keep Labour afloat  
+
+Minúsculas: 
+ and what of miliband  the labour leader s august has been a wicked month  one by one blairites and foot soldiers alike have queued up to question his ability to win  to cap it all  in his attempt to show his independence from the trade unions he has picked a fight with the money men who keep labour afloat  
+
+Palabras: 
+ ['and', 'what', 'of', 'miliband', 'the', 'labour', 'leader', 's', 'august', 'has', 'been', 'a', 'wicked', 'month', 'one', 'by', 'one', 'blairites', 'and', 'foot', 'soldiers', 'alike', 'have', 'queued', 'up', 'to', 'question', 'his', 'ability', 'to', 'win', 'to', 'cap', 'it', 'all', 'in', 'his', 'attempt', 'to', 'show', 'his', 'independence', 'from', 'the', 'trade', 'unions', 'he', 'has', 'picked', 'a', 'fight', 'with', 'the', 'money', 'men', 'who', 'keep', 'labour', 'afloat']
+
+Sin cerradas: 
+ ['miliband', 'labour', 'leader', 'august', 'wicked', 'month', 'one', 'one', 'blairites', 'foot', 'soldiers', 'alike', 'queued', 'question', 'ability', 'win', 'cap', 'attempt', 'show', 'independence', 'trade', 'unions', 'picked', 'fight', 'money', 'men', 'keep', 'labour', 'afloat']
+
+Truncadas: 
+ ['miliband', 'labour', 'leader', 'august', 'wick', 'month', 'one', 'one', 'blairit', 'foot', 'soldier', 'alik', 'queu', 'question', 'abil', 'win', 'cap', 'attempt', 'show', 'independ', 'trade', 'union', 'pick', 'fight', 'money', 'men', 'keep', 'labour', 'afloat']
+
+Texto final: 
+ miliband labour leader august wick month one one blairit foot soldier alik queu question abil win cap attempt show independ trade union pick fight money men keep labour afloat
